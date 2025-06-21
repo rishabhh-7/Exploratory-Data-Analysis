@@ -1,0 +1,1427 @@
+Title
+Online Learning Rate Adaptation with Hypergradient Descent
+A DIRT-T Approach to Unsupervised Domain Adaptation
+Memory-based Parameter Adaptation
+Understanding image motion with group representations
+Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step
+Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments
+Self-ensembling for visual domain adaptation
+Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation
+An image representation based convolutional network for DNA classification
+Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis
+Implicit Causal Models for Genome-wide Association Studies
+Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control
+Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design
+Structured Evolution with Compact Architectures for Scalable Policy Optimization
+On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization
+ContextNet: Deep learning for Star Galaxy Classification
+Scalable approximate Bayesian inference for particle tracking data
+Functional Gradient Boosting based on Residual Network Perception
+On Acceleration with Noise-Corrupted Gradients
+Local Convergence Properties of SAGA/Prox-SVRG and Acceleration
+Rapid Adaptation with Conditionally Shifted Neurons
+Learning Semantic Representations for Unsupervised Domain Adaptation
+CyCADA: Cycle-Consistent Adversarial Domain Adaptation
+Video Prediction with Appearance and Motion Conditions
+DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors
+GumBolt: Extending Gumbel trick to Boltzmann priors
+Conditional Adversarial Domain Adaptation
+L4: Practical loss-based stepsize adaptation for deep learning
+Adversarial Multiple Source Domain Adaptation
+Learning a latent manifold of odor representations from neural responses in piriform cortex
+Co-regularized Alignment for Unsupervised Domain Adaptation
+Designing by Training: Acceleration Neural Network for Fast High-Dimensional Convolution
+Generative modeling for protein structures
+The Global Anchor Method for Quantifying Linguistic Shifts and Domain Adaptation
+Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization
+Practical exact algorithm for trembling-hand equilibrium refinements in games
+"Revisiting $(\epsilon, \gamma, \tau)$-similarity learning for domain adaptation"
+Algorithms and Theory for Multiple-Source Adaptation
+Synthesize Policies for Transfer and Adaptation across Tasks and Environments
+Acceleration through Optimistic No-Regret Dynamics
+GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration
+Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms
+Recurrent World Models Facilitate Policy Evolution
+The emergence of multiple retinal cell types through efficient coding of natural movies
+Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents
+Evolution-Guided Policy Gradient in Reinforcement Learning
+Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions
+Learning and Inference in Hilbert Space with Quantum Graphical Models
+Efficient Projection onto the Perfect Phylogeny Model
+Incorporating Context into Language Encoding Models for fMRI
+Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals
+Preference Based Adaptation for Learning Objectives
+Online Learning of Quantum States
+Direct Runge-Kutta Discretization Achieves Acceleration
+Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms
+Diverse Ensemble Evolution: Curriculum Data-Model Marriage
+"Online Adaptive Methods, Universality and Acceleration"
+Adaptation to Easy Data in Prediction with Limited Advice
+A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs
+Human-level Protein Localization with Convolutional Neural Networks
+Adversarial Domain Adaptation for Stable Brain-Machine Interfaces
+A rotation-equivariant convolutional neural network model of primary visual cortex
+Learning Protein Structure with a Differentiable Simulator
+Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation
+Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution
+Improving the Generalization of Adversarial Training with Domain Adaptation
+Neural Graph Evolution: Automatic Robot Design
+Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL
+Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation
+A2BCD: Asynchronous Acceleration with Optimal Complexity
+Initialized Equilibrium Propagation for Backprop-Free Training
+Regularized Learning for  Domain Adaptation under Label Shifts
+Learning protein sequence embeddings using information from structure
+Learning to Design RNA
+Function Space Particle Optimization for Bayesian Neural Networks
+Unsupervised Domain Adaptation for Distance Metric Learning
+LEARNING FACTORIZED REPRESENTATIONS FOR OPEN-SET DOMAIN ADAPTATION
+Learning Grid Cells as Vector Representation of Self-Position Coupled with Matrix Representation of Self-Motion
+"Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids"
+On Learning Invariant Representations for Domain Adaptation
+On Dropout and Nuclear Norm Regularization
+Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff
+A Personalized Affective Memory Model for Improving Emotion Recognition
+Acceleration of SVRG and Katyusha X by Inexact Preconditioning
+Curvature-Exploiting Acceleration of Elastic Net Computations
+Particle Flow Bayes' Rule
+Breaking Inter-Layer Co-Adaptation by Classifier Anonymization
+Collective Model Fusion for Multiple Black-Box Experts
+A Dynamical Systems Perspective on Nesterov Acceleration
+Understanding and Accelerating Particle-Based Variational Inference
+Fast Context Adaptation via Meta-Learning
+Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation
+BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning
+Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation
+"Anytime Online-to-Batch, Optimism and Acceleration"
+Sublinear quantum algorithms for training linear and kernel-based classifiers
+Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment
+Bridging Theory and Algorithm for Domain Adaptation
+Polynomial Cost of Adaptation for X-Armed Bandits
+Missing Not at Random in Matrix Completion: The Effectiveness of Estimating Missingness Probabilities Under a Low Nuclear Norm Assumption
+Updates of Equilibrium Prop Match Gradients of Backprop Through Time in an RNN with Static Input
+Deep Equilibrium Models
+Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks
+Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection
+"Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights"
+q-means: A quantum algorithm for unsupervised machine learning
+Sim2real transfer learning for 3D human pose estimation: motion to the rescue
+Acceleration via Symplectic Discretization of High-Resolution Differential Equations
+Trajectory of Alternating Direction Method of Multipliers and Adaptive Acceleration
+Parameter elimination in particle Gibbs sampling
+Object landmark discovery through unsupervised adaptation
+Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video
+Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation
+Multi-source Domain Adaptation for Semantic Segmentation
+On Single Source Robustness in Deep Fusion Models
+First Order Motion Model for Image Animation
+Quantum Wasserstein Generative Adversarial Networks
+Unsupervised Learning of Object Keypoints for Perception and Control
+A state-space model for inferring effective connectivity of latent neural dynamics from simultaneous EEG/fMRI
+Manifold-regression to predict from MEG/EEG brain signals without source modeling
+A coupled autoencoder approach for multi-modal analysis of cell types
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models
+From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI
+Perceiving the arrow of time in autoregressive motion
+Scalable inference of topic evolution via models for latent geometric structures
+Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling
+Connective Cognition Network for Directional Visual Commonsense Reasoning
+A Generic Acceleration Framework for Stochastic Composite Optimization
+Tensor Monte Carlo: Particle Methods for the GPU era
+Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning
+Efficient Regret Minimization Algorithm for Extensive-Form Correlated Equilibrium
+Approximate Bayesian Inference for a Mechanistic Model of Vesicle Release at a Ribbon Synapse
+Comparison Against Task Driven Artificial Neural Networks Reveals Functional Organization of Mouse Visual Cortex
+Nonlinear scaling of resource allocation in sensory bottlenecks
+A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit
+A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation
+On The Classification-Distortion-Perception Tradeoff
+End-to-End Learning on 3D Protein Structure for Interface Prediction
+Evaluating Protein Transfer Learning with TAPE
+Generative Models for Graph-Based Protein Design
+Quantum Embedding of Knowledge for Reasoning
+Kernel Truncated Randomized Ridge Regression: Optimal Rates and Low Noise Acceleration
+FormulaZero: Distributionally Robust Online Adaptation via Offline Population Synthesis
+"Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning"
+Variance Reduction in Stochastic Particle-Optimization Sampling
+Task-Oriented Active Perception and Planning in Environments with Partially Known Semantics
+Maximum Likelihood with Bias-Corrected Calibration is Hard-To-Beat at Label Shift Adaptation
+Quantum Expectation-Maximization for Gaussian mixture models
+Continuously Indexed Domain Adaptation
+Progressive Graph Learning for Open-Set Domain Adaptation
+Channel Equilibrium Networks for Learning Deep Representation
+Label-Noise Robust Domain Adaptation
+Understanding Self-Training for Gradual Domain Adaptation
+Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings
+Margin-aware Adversarial Domain Adaptation with Optimal Transport
+Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization
+Quantum Boosting
+Fast Adaptation to New Environments via Policy-Dynamics Value Functions
+Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning
+Variance Reduced Coordinate Descent with Acceleration: New Method With a Surprising Application to Finite-Sum Problems
+Provably Efficient Model-based Policy Adaptation
+Acceleration through spectral density estimation
+History-Gradient Aided Batch Size Adaptation for Variance Reduced Algorithms
+Sparsified Linear Programming for Zero-Sum Equilibrium Finding
+Lorentz Group Equivariant Neural Network for Particle Physics
+Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion
+Variance Reduction and Quasi-Newton for Particle-Based Variational Inference
+Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation
+Domain Aggregation Networks for Multi-Source Domain Adaptation
+Model Fusion with Kullback--Leibler Divergence
+Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation
+Information Particle Filter Tree: An Online Algorithm for POMDPs with Belief-Based Rewards on Continuous Domains
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics
+Variational Autoencoders with Riemannian Brownian Motion Priors
+Anderson Acceleration of Proximal Gradient Methods
+Few-shot Domain Adaptation by Causal Mechanism Transfer
+Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations
+Deep Multimodal Fusion by Channel  Exchanging
+One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers
+Improving robustness against common corruptions by covariate shift adaptation
+Multiscale Deep Equilibrium Models
+Monotone operator equilibrium networks
+Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis
+Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs
+Inductive Quantum Embedding
+Watch out! Motion is Blurring the Vision of Your Deep Neural Networks
+"Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation"
+Learning Restricted Boltzmann Machines with Sparse Latent Variables
+Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso
+No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium
+Multi-agent active perception with prediction rewards
+Model-based Policy Optimization with Unsupervised Model Adaptation
+Heuristic Domain Adaptation
+Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation
+Domain Adaptation as a Problem of Inference on Graphical Models
+Model Fusion via Optimal Transport
+Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation
+Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning
+PRANK: motion Prediction based on RANKing
+Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains
+Your Classifier can Secretly Suffice Multi-Source Domain Adaptation
+Universal Domain Adaptation through Self Supervision
+Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift
+Acceleration with a Ball Optimization Oracle
+First-Order Methods for Large-Scale Market Equilibrium Computation
+Label-Aware Neural Tangent Kernel: Toward Better Generalization and Local Elasticity
+Adaptation Properties Allow Identification of Optimized Neural Codes
+Online Adaptation for Consistent Mesh Reconstruction in the Wild
+Texture Interpolation for Probing Visual Perception
+Transferable Calibration with Lower Bias and Variance in Domain Adaptation
+Neural Topographic Factor Analysis for fMRI Data
+Deep Rao-Blackwellised Particle Filters for Time Series Forecasting
+Small Nash Equilibrium Certificates in Very Large Games
+Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions
+Convergence of Meta-Learning with Task-Specific Adaptation over Partial Parameters
+Finer Metagenomic Reconstruction via Biodiversity Optimization
+A simple normative network approximates local non-Hebbian learning in the cortex
+Ensemble Distillation for Robust Model Fusion in Federated Learning
+Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence
+Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech
+Shared Space Transfer Learning for analyzing multi-site fMRI data
+Modeling Task Effects on Meaning Representation in the Brain via Zero-Shot MEG Prediction
+Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel
+From Boltzmann Machines to Neural Networks and Back Again
+Neuron-level Structured Pruning using Polarization Regularizer
+High-contrast “gaudy” images improve the training of deep neural network models of visual cortex
+Recurrent Quantum Neural Networks
+Self-Supervised Policy Adaptation during Deployment
+Single-Photon Image Classification
+Representation learning for improved interpretability and classification accuracy of clinical factors from EEG
+Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures
+On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning
+Generalization in data-driven models of primary visual cortex
+On the mapping between Hopfield networks and Restricted Boltzmann Machines
+Learning from Protein Structure with Geometric Vector Perceptrons
+VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models
+Transformer protein language models are unsupervised structure learners
+Tent: Fully Test-Time Adaptation by Entropy Minimization
+Usable Information and Evolution of Optimal Representations During Training
+Fidelity-based Deep Adiabatic Scheduling
+Average-case Acceleration for Bilinear Games and Normal Matrices
+Human-Level Performance in No-Press Diplomacy via Equilibrium Search
+Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration
+Task-Agnostic Morphology Evolution
+BERTology Meets Biology: Interpreting Attention in Protein Language Models
+AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition
+Estimating Lipschitz constants of monotone deep equilibrium models
+Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning
+EigenGame: PCA as a Nash Equilibrium
+Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning
+Neural representation and generation for RNA secondary structures
+Molecule Optimization by Explainable Evolution
+Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization
+Poisson-Randomised DirBN: Large Mutation is Needed in Dirichlet Belief Networks
+Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model
+Perceiver: General Perception with Iterative Attention
+Large-Margin Contrastive Learning with Distance Polarization Regularizer
+Multi-Agent Training beyond Zero-Sum with Correlated Equilibrium Meta-Solvers
+Acceleration via Fractal Learning Rate Schedules
+Unbalanced minibatch Optimal Transport; applications to Domain Adaptation
+Generative Particle Variational Inference via Estimation of Functional Gradients
+LAMDA: Label Matching Deep Domain Adaptation
+From Poincaré Recurrence to Convergence in Imperfect Information Games: Finding Equilibrium via Regularization
+Sequential Domain Adaptation by Synthesizing Distributionally Robust Experts
+Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies
+Stabilizing Equilibrium Models by Jacobian Regularization
+A Receptor Skeleton for Capsule Neural Networks
+Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth
+Dichotomous Optimistic Search to Quantify Human Perception
+The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning
+Exponentially Many Local Minima in Quantum Neural Networks
+A Modular Analysis of Provable Acceleration via Polyak's Momentum: Training a Wide ReLU Network and a Deep Linear Network
+Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for  Protein Design
+RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting
+Differentiable Particle Filtering via Entropy-Regularized Optimal Transport
+Representation Subspace Distance for Domain Adaptation Regression
+Quantum algorithms for reinforcement learning with a generative model
+A Discriminative Technique for Multiple-Source Adaptation
+Fast margin maximization via dual acceleration
+KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation
+One Pass Late Fusion Multi-view Clustering
+Bayesian Structural Adaptation for Continual Learning
+Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation
+Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification
+Model Fusion for Personalized Learning
+Online Learning and Control of Complex Dynamical Systems from Sensory Input
+MAU: A Motion-Aware Unit for Video Prediction and Beyond
+Analytical Study of Momentum-Based Acceleration Methods in Paradigmatic High-Dimensional Non-Convex Problems
+Private learning implies quantum stability
+3DP3: 3D Scene Perception via Probabilistic Programming
+Attention Bottlenecks for Multimodal Fusion
+H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion
+TOHAN: A One-step Approach towards Few-shot Hypothesis Adaptation
+Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing
+Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data
+Implicit Task-Driven Probability Discrepancy Measure for Unsupervised Domain Adaptation
+A No-go Theorem for Robust Acceleration in the Hyperbolic Plane
+Learning Robust Hierarchical Patterns of Human Brain across Many fMRI Studies
+Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation
+Confident Anchor-Induced Multi-Source Free Domain Adaptation
+Implicit Semantic Response Alignment for Partial Domain Adaptation
+The Inductive Bias of Quantum Kernels
+A Theory of the Distortion-Perception Tradeoff in Wasserstein Space
+Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception
+Equilibrium and non-Equilibrium regimes in the learning of Restricted Boltzmann Machines
+Reverse-Complement Equivariant Networks for DNA Sequences
+Can fMRI reveal the representation of syntactic structure in the brain?
+The balancing principle for parameter choice in distance-regularized domain adaptation
+Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation
+Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning
+Language models enable zero-shot prediction of the effects of mutations on protein function
+BayesIMP: Uncertainty Quantification for Causal Data Fusion
+Domain Adaptation with Invariant Representation Learning: What Transformations to Learn?
+Multi-Person 3D Motion Prediction with Multi-Range Transformers
+A Prototype-Oriented Framework for Unsupervised Domain Adaptation
+Particle Cloud Generation with Message Passing Generative Adversarial Networks
+Gradual Domain Adaptation without Indexed Intermediate Domains
+Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning
+Unsupervised Domain Adaptation with Dynamics-Aware Rewards in Reinforcement Learning
+Robust Regression Revisited: Acceleration and Improved Estimation Rates
+Pareto Domain Adaptation
+Stable Neural ODE with Lyapunov-Stable Equilibrium Points for Defending Against Adversarial Attacks
+Differentiable Equilibrium Computation with Decision Diagrams for Stackelberg Models of Combinatorial Congestion Games
+Latent Equilibrium: A unified learning theory for arbitrarily fast computation with arbitrarily slow neurons
+Action-guided 3D Human Motion Prediction
+Learning to dehaze with polarization
+Loss function based second-order Jensen inequality and its application to particle variational inference
+Parametrized Quantum Policies for Reinforcement Learning
+OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression
+Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects
+Noisy Adaptation Generates Lévy Flights in Attractor Neural Networks
+A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast
+Learning Distilled Collaboration Graph for Multi-Agent Perception
+Particle Dual Averaging: Optimization of Mean Field Neural Network with Global Convergence Rate Analysis
+"Neural Regression, Representational Similarity, Model Zoology & Neural Taskonomy at Scale in Rodent Visual Cortex"
+Lifelong Domain Adaptation via Consolidated Internal Distribution
+Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State
+Deep Markov Factor Analysis: Towards Concurrent Temporal and Spatial Analysis of fMRI Data
+Fine-Grained Zero-Shot Learning with DNA as Side Information
+RoMA: Robust Model Adaptation for Offline Model-based Optimization
+A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning
+TNASP: A Transformer-based NAS Predictor with a Self-evolution Framework
+Bayesian Adaptation for Covariate Shift
+Habitat 2.0: Training Home Assistants to Rearrange their Habitat
+Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems
+CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation
+Spherical Motion Dynamics: Learning Dynamics of Normalized Neural Network using SGD and Weight Decay
+Semialgebraic Representation of Monotone Deep Equilibrium Models and Applications to Certification
+NEO: Non Equilibrium Sampling on the Orbits of a Deterministic Transform
+Cross-modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning
+Cycle Self-Training for Domain Adaptation
+HSVA: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning
+ToAlign: Task-Oriented Alignment for Unsupervised Domain Adaptation
+Adversarial Reweighting for Partial Domain Adaptation
+Co-evolution Transformer for Protein Contact Prediction
+Knowledge-Adaptation Priors
+Equilibrium Refinement for the Age of Machines: The One-Sided Quasi-Perfect Equilibrium
+Online Adaptation to Label Distribution Shift
+Minimizing Polarization and Disagreement in Social Networks via Link Recommendation
+Explaining heterogeneity in medial entorhinal cortex with task-driven neural networks
+Unsupervised Motion Representation Learning with Capsule Autoencoders
+Reinforcement learning for optimization of variational quantum circuit architectures
+Online Market Equilibrium with Application to Fair Division
+CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks
+Towards robust vision by multi-task learning on monkey visual cortex
+Global Convergence  to Local Minmax Equilibrium in Classes of Nonconvex Zero-Sum Games
+Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots
+Reinforcement Learning based Disease Progression Model for Alzheimer’s Disease
+Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity
+Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model
+Joint inference and input optimization in equilibrium networks
+Reducing Collision Checking for Sampling-Based Motion Planning Using Graph Neural Networks
+Three-dimensional spike localization and improved motion correction for Neuropixels recordings
+The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning
+Universal Rate-Distortion-Perception Representations for Lossy Compression
+The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning
+"Damped Anderson Mixing for Deep Reinforcement Learning: Acceleration, Convergence, and Stabilization"
+Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks
+Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration
+PF-GNN: Differentiable particle filtering based approximation of universal graph representations
+Learning Transferable Reward for Query Object Localization with Policy Adaptation
+Critical Points in Quantum Generative Models
+Towards Better Understanding and Better Generalization of Low-shot Classification in Histology Images with Contrastive Learning
+Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks
+Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception
+An Information Fusion Approach to Learning with Instance-Dependent Label Noise
+Decoupled Adaptation for Cross-Domain Object Detection
+Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design
+Geometric Transformers for Protein Interface Contact Prediction
+Ancestral protein sequence reconstruction using a tree-structured Ornstein-Uhlenbeck variational autoencoder
+The Evolution of Uncertainty of Learning in Games
+ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics
+Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction
+Provable Adaptation across Multiway Domains via Representation Learning
+Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking
+Neural Deep Equilibrium Solvers
+Discrepancy-Based Active Learning for Domain Adaptation
+Mapping conditional distributions for domain adaptation under generalized target shift
+Learning a subspace of policies for online adaptation in Reinforcement Learning
+On Redundancy and Diversity in Cell-based Neural Architecture Search
+Graph-Relational Domain Adaptation
+AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation
+The Boltzmann Policy Distribution: Accounting for Systematic Suboptimality in Human Models
+CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation
+Optimization inspired Multi-Branch Equilibrium Models
+Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation
+Declarative nets that are equilibrium models
+Particle Stochastic Dual Coordinate Ascent: Exponential convergent algorithm for mean field neural network optimization
+Reinforcement Learning in Presence of Discrete Markovian Context Evolution
+Learning Discrete Structured Variational Auto-Encoder using Natural Evolution Strategies
+CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals
+Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate
+DriPP: Driven Point Processes to Model Stimuli Induced Patterns in M/EEG Signals
+Pareto Policy Adaptation
+OntoProtein: Protein Pretraining With Gene Ontology Embedding
+Acceleration of Federated Learning with Alleviated Forgetting in Local Training
+LoRA: Low-Rank Adaptation of Large Language Models
+Extending the WILDS Benchmark for Unsupervised Adaptation
+KL Guided Domain Adaptation
+DNA: Domain Generalization with Diversified Neural Averaging
+StreamingQA: A Benchmark for Adaptation to New Knowledge over Time in Question Answering Models
+Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning
+Deep Squared Euclidean Approximation to the Levenshtein Distance for DNA Storage
+Marginal Distribution Adaptation for Discrete Sets via Module-Oriented Divergence Minimization
+CerDEQ: Certifiable Deep Equilibrium Model
+Improving Task-free Continual Learning by Distributionally Robust Memory Evolution
+Balancing Discriminability and Transferability for Source-Free Domain Adaptation
+Partial disentanglement for domain adaptation
+Confidence Score for Source-Free Unsupervised Domain Adaptation
+Hessian-Free High-Resolution Nesterov Acceleration For Sampling
+Accurate Quantization of Measures via Interacting Particle-based Optimization
+Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation
+Welfare Maximization in Competitive Equilibrium: Reinforcement Learning for Markov Exchange Economy
+Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra
+Proximal Exploration for Model-guided Protein Sequence Design
+Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval
+Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets
+Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation
+Deep equilibrium networks are sensitive to initialization statistics
+Adaptive Inertia: Disentangling the Effects of Adaptive Learning Rate and Momentum
+Generating 3D Molecules for Target Protein Binding
+Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion
+Equivariant Quantum Graph Circuits
+Feature Space Particle Inference for Neural Network Ensembles
+NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks
+Minimax Classification under Concept Drift with Multidimensional Adaptation and Performance Guarantees
+ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!
+Three-stage Evolution and Fast Equilibrium for SGD with Non-degerate Critical Points
+Centroid Approximation for Bootstrap: Improving Particle Quality at Inference
+Identifiability Conditions for Domain Adaptation
+"Understanding Gradual Domain Adaptation: Improved Analysis, Optimal Path and Beyond"
+Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out
+Structure Preserving Neural Networks: A Case Study in the Entropy Closure of the Boltzmann Equation
+Learning to Estimate and Refine Fluid Motion with Physical Dynamics
+Particle Transformer for Jet Tagging
+Domain Adaptation for Time Series Forecasting via Attention Sharing
+Antibody-Antigen Docking and Design via Hierarchical Structure Refinement
+NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields
+"Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation"
+Ripple Attention for Visual Perception with Sub-quadratic Complexity
+Efficient Test-Time Model Adaptation without Forgetting
+GALAXY: Graph-based Active Learning at the Extreme
+Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets
+Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training
+Keypoint-Guided Optimal Transport with Applications in Heterogeneous Domain Adaptation
+LOG: Active Model Adaptation for Label-Efficient OOD Generalization
+[Re] Learning Unknown from Correlations: Graph Neural Network for Inter-novel-protein Interaction Prediction
+BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework
+[Re] Reproducibility Report: Contrastive Learning of Socially-aware Motion Representations
+Learning Optimal Flows for Non-Equilibrium Importance Sampling
+Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering
+Unsupervised Domain Adaptation for Semantic Segmentation using Depth Distribution
+Contact-aware Human Motion Forecasting
+Efficient Meta Reinforcement Learning for Preference-based Fast Adaptation
+HyperMiner: Topic Taxonomy Mining with Hyperbolic Embedding
+Concentration of Data Encoding in Parameterized Quantum Circuits
+TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction
+Estimating graphical models for count data with applications to single-cell gene network
+GAR: Generalized Autoregression for Multi-Fidelity Fusion
+MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification
+Adaptation Accelerating Sampling-based Bayesian Inference in Attractor Neural Networks
+Generalized One-shot Domain Adaptation of Generative Adversarial Networks
+HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks
+Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences
+Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures
+HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes
+Bandit Theory and Thompson Sampling-Guided Directed Evolution for Sequence Optimization
+Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation
+GraphQNTK: Quantum Neural Tangent Kernel for Graph Data
+Path Independent Equilibrium Models Can Better Exploit Test-Time Computation
+Evolution of Neural Tangent Kernels under Benign and Adversarial Training
+Variational Model Perturbation for Source-Free Domain Adaptation
+Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps
+Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts
+Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution
+To update or not to update? Neurons at equilibrium in deep models
+QUARK: Controllable Text Generation with Reinforced Unlearning
+Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations
+Multi-layer State Evolution Under Random Convolutional Design
+Deep Equilibrium Approaches to Diffusion Models
+Private Multiparty Perception for Navigation
+VaiPhy: a Variational Inference Based Algorithm for Phylogeny
+Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving
+PALMER: Perception - Action Loop with Memory for Long-Horizon Planning
+Finding Correlated Equilibrium of Constrained Markov Game: A Primal-Dual Approach
+The First Optimal Acceleration of High-Order Methods in Smooth Convex Optimization
+Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits
+Re-Analyze Gauss: Bounds for Private Matrix Approximation via Dyson Brownian Motion
+On Enforcing Better Conditioned Meta-Learning for Rapid Few-Shot Adaptation
+Hamiltonian Latent Operators for content and motion disentanglement in image sequences
+Machine Learning on Graphs: A Model and Comprehensive Taxonomy
+Understanding the Evolution of Linear Regions in Deep Reinforcement Learning
+Unified Optimal Transport Framework for Universal Domain Adaptation
+Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation
+MAtt: A Manifold Attention Network for EEG Decoding
+Distributionally Robust Optimization via Ball Oracle Acceleration
+Test Time Adaptation via Conjugate Pseudo-labels
+Self-supervised surround-view depth estimation with volumetric feature fusion
+Risk-Driven Design of Perception Systems
+Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits
+Constants of motion network
+The least-control principle for local learning at equilibrium
+Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding  and Molecule Design
+Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics
+A Closer Look at the Adversarial Robustness of Deep Equilibrium Models
+DNA: Proximal Policy Optimization with a Dual Network Architecture
+Self-Consistent Dynamical Field Theory of Kernel Evolution in Wide Neural Networks
+Unsupervised Multi-Object Segmentation by Predicting Probable Motion Patterns
+Learning Two-Player Markov Games: Neural Function Approximation and Correlated Equilibrium
+Hybrid Neural Autoencoders for Stimulus Encoding in Visual and Other Sensory Neuroprostheses
+Do Current Multi-Task Optimization Methods in Deep Learning Even Help?
+Panchromatic and Multispectral Image Fusion via Alternating Reverse Filtering Network
+Exploring evolution-aware & -free protein language models as protein function predictors
+Domain Adaptation meets Individual Fairness. And they get along.
+Factored Adaptation for Non-Stationary Reinforcement Learning
+Learning to Accelerate Partial Differential Equations via Latent Global Evolution
+Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation
+OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology
+NeMF: Neural Motion Fields for Kinematic Animation
+Distribution-Informed Neural Networks for Domain Adaptation Regression
+DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations
+Unsupervised Adaptation  from Repeated Traversals for Autonomous Driving
+Prune and distill: similar reformatting of image information along rat visual cortex and deep neural networks
+Physics-Informed Implicit Representations of Equilibrium Network Flows
+Learning Individualized Treatment Rules with Many Treatments: A Supervised Clustering Approach Using Adaptive Fusion
+Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation
+Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent
+Systematic improvement of neural network quantum states using Lanczos
+Acceleration in Distributed Sparse Regression
+Communication Acceleration of Local Gradient Methods via an Accelerated Primal-Dual Algorithm with an Inexact Prox
+Few-shot Image Generation via Adaptation-Aware Kernel Modulation
+SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG
+Subsidiary Prototype Alignment for Universal Domain Adaptation
+Power and limitations of single-qubit native quantum neural networks
+Domain Adaptation under Open Set Label Shift
+Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence
+Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants
+Optimal and Adaptive Monteiro-Svaiter Acceleration
+Learning-based Motion Planning in Dynamic Environments Using GNNs and Temporal Encoding
+NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation
+Toward Equation of Motion for Deep Neural Networks: Continuous-time Gradient Descent and Discretization Error Analysis
+Differentiable Analog Quantum Computing for Optimization and Control
+CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains
+PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding
+PeRFception: Perception using Radiance Fields
+Online Deep Equilibrium Learning for Regularization by Denoising
+DaDA: Distortion-aware Domain Adaptation for Unsupervised Semantic Segmentation
+Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning
+Motion Transformer with Global Intention Localization and Local Movement Refinement
+MEMO: Test Time Robustness via Adaptation and Augmentation
+Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone
+Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks
+"Benign, Tempered, or Catastrophic: Toward a Refined Taxonomy of Overfitting"
+"Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers"
+Action-modulated midbrain dopamine activity arises from distributed control policies
+First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization
+Dataless Knowledge Fusion by Merging Weights of Language Models
+Few-Shot Domain Adaptation For End-to-End Communication
+Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning
+Unbiased Stochastic Proximal Solver for Graph Neural Networks with Equilibrium States
+Stochastic Multi-Person 3D Motion Forecasting
+Continuized Acceleration for Quasar Convex Functions  in Non-Convex Optimization
+Hyper-Decision Transformer for Efficient Online Policy Adaptation
+HotProtein: A Novel Framework for Protein Thermostability Prediction and Editing
+BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion
+MaskFusion: Feature Augmentation for Click-Through Rate Prediction via Input-adaptive Mask Fusion
+Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation
+MECTA: Memory-Economic Continual Test-Time Model Adaptation
+Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment
+DiffMimic: Efficient Motion Mimicking with Differentiable Physics
+Symmetric Pruning in Quantum Neural Networks
+Learning Hierarchical Protein Representations via Complete 3D Graph Networks
+Graph Domain Adaptation via Theory-Grounded Spectral Regularization
+Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning
+"A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics"
+Pseudo-label Training and Model Inertia in Neural Machine Translation
+On Pre-training Language Model for Antibody
+Molecule Generation For Target Protein Binding with Structural Motifs
+Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction
+Statistical Inference for Fisher Market Equilibrium
+Win: Weight-Decay-Integrated Nesterov Acceleration for Adaptive Gradient Algorithms
+"Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning"
+LiftedCL: Lifting Contrastive Learning for Human-Centric Perception
+Thalamus: a brain-inspired algorithm for biologically-plausible continual learning and disentangled representations
+Multi-level Protein Structure Pre-training via Prompt Learning
+M-L2O: Towards Generalizable Learning-to-Optimize by Test-Time Fast Self-Adaptation
+Discovering Informative and Robust Positives for Video Domain Adaptation
+Dirichlet-based Uncertainty Calibration for Active Domain Adaptation
+PiFold: Toward effective and efficient protein inverse folding
+Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens
+"On the Convergence of AdaGrad(Norm) on $\mathbb{R}^d$: Beyond Convexity, Non-Asymptotic Rate and Acceleration"
+Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness
+Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!
+Test-Time Adaptation via Self-Training with Nearest Neighbor Information
+Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors
+Matching receptor to odorant with protein language and graph neural networks
+Conditional Antibody Design as 3D Equivariant Graph Translation
+Protein Sequence and Structure Co-Design with Equivariant Translation
+Disentanglement with Biological Constraints: A Theory of Functional Cell Types
+Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach
+Human Motion Diffusion Model
+NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning
+In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations
+Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception
+MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization
+The Symmetric Generalized Eigenvalue Problem as a Nash Equilibrium
+Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem
+Protein Representation Learning by Geometric Structure Pretraining
+Information-Theoretic Analysis of Unsupervised Domain Adaptation
+QuAnt: Quantum Annealing with Learnt Couplings
+Classically Approximating Variational Quantum Machine Learning with Random Fourier Features
+E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking
+Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection
+DELTA: DEGRADATION-FREE FULLY TEST-TIME ADAPTATION
+Contrastive Learning for Unsupervised Domain Adaptation of Time Series
+Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation
+Energy-Based Test Sample Adaptation for Domain Generalization
+Towards Stable Test-time Adaptation in Dynamic Wild World
+When Source-Free Domain Adaptation Meets Learning with Noisy Labels
+AnyDA: Anytime Domain Adaptation
+A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias
+Surgical Fine-Tuning Improves Adaptation to Distribution Shifts
+Discovering Evolution Strategies via Meta-Black-Box Optimization
+A Self-Attention Ansatz for Ab-initio Quantum Chemistry
+Particle-based Variational Inference with Preconditioned Functional Gradient Flow
+Consolidator: Mergable Adapter with Group Connections for Visual Adaptation
+Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation
+TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation
+Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation
+Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation
+Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization
+Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting
+Test-time Adaptation with Slot-Centric Models
+On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation
+Reprogramming Pretrained Language Models for Antibody Sequence Infilling
+QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms
+SE(3) diffusion model with application to protein backbone generation
+ODS: Test-Time Adaptation in the Presence of Open-World Data Shift
+Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions
+Learning Distributions over Quantum Measurement Outcomes
+Hardness of Independent Learning and Sparse Equilibrium Computation in Markov Games
+Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels
+Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics
+Uncovering Adversarial Risks of Test-Time Adaptation
+State and parameter learning with PARIS particle Gibbs
+Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models
+Learning-Rate-Free Learning by D-Adaptation
+Flash: Concept Drift Adaptation in Federated Learning
+Structure-informed Language Models Are Protein Designers
+Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees.
+Near-Optimal Quantum Coreset Construction Algorithms for Clustering
+Importance Weighted Expectation-Maximization for Protein Sequence Design
+Offline Meta Reinforcement Learning with In-Distribution Online Adaptation
+Efficient Personalized Federated Learning via Sparse Model-Adaptation
+On Pitfalls of Test-Time Adaptation
+Achieving Hierarchy-Free Approximation for Bilevel Programs with Equilibrium Constraints
+Principled Acceleration of Iterative Numerical Methods Using Machine Learning
+Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian
+"Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning"
+Accelerated Stochastic Optimization Methods under Quasar-convexity
+Functional Neural Networks: Shift invariant models for functional data with applications to EEG classification
+Human-Timescale Adaptation in an Open-Ended Task Space
+Double-Weighting for Covariate Shift Adaptation
+Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving
+Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions
+Sliced-Wasserstein on Symmetric Positive Definite Matrices for M/EEG Signals
+FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning
+Structural Re-weighting Improves Graph Domain Adaptation
+End-to-end Training of Deep Boltzmann Machines by Unbiased Contrastive Divergence with Local Mode Initialization
+ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts
+Curious Replay for Model-based Adaptation
+Enabling First-Order Gradient-Based Learning for Equilibrium Computation in Markets
+"From Perception to Programs: Regularize, Overparameterize, and Amortize"
+A Hybrid Quantum-Classical Approach based on the Hadamard Transform for the Convolutional Layer
+End-to-End Full-Atom Antibody Design
+"Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds"
+Diversity-enhancing Generative Network for Few-shot Hypothesis Adaptation
+Oscillation-free Quantization for Low-bit Vision Transformers
+Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling
+Provable Dynamic Fusion for Low-Quality Multimodal Data
+Master-ASR: Achieving Multilingual Scalability and Low-Resource Adaptation in ASR with Modular Learning
+Stabilizing GANs' Training with Brownian Motion Controller
+Motion Question Answering via Modular Motion Programs
+QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark
+Are Equivariant Equilibrium Approximators Beneficial?
+Quantum Policy Gradient Algorithm with Optimized Action Decoding
+Quantum Ridgelet Transform: Winning Lottery Ticket of Neural Networks with Quantum Computation
+Target-Aware Generative Augmentations for Single-Shot Adaptation
+AbODE: Ab initio antibody design using conjoined ODEs
+Robust Perception through Equivariance
+Cell-Free Latent Go-Explore
+RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution
+In Search for a Generalizable Method for Source Free Domain Adaptation
+Taxonomy-Structured Domain Adaptation
+AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation
+Quantum 3D Graph Learning with Applications to Molecule Embedding
+Domain Adaptation for Time Series Under Feature and Label Shifts
+ELSA: Efficient Label Shift Adaptation through the Lens of Semiparametric Models
+RLSbench: Domain Adaptation Under Relaxed Label Shift
+"Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation"
+Efficient Quantum Algorithms for Quantum Optimal Control
+Representation Learning with Multi-Step Inverse Kinematics: An Efficient and Optimal Approach to Rich-Observation RL
+Improving Adversarial Robustness of Deep Equilibrium Models with Explicit Regulations Along the Neural Dynamics
+NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning
+Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum QAP Solver
+FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning
+Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation
+Efficient displacement convex optimization with particle gradient descent
+Leveraging Proxy of Training Data for Test-Time Adaptation
+Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows
+Is Consensus Acceleration Possible in Decentralized Optimization over Slowly Time-Varying Networks?
+RH-BrainFS: Regional Heterogeneous Multimodal Brain Networks Fusion Strategy
+Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering
+Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction
+Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model
+Query-based Temporal Fusion with Explicit Motion for 3D Object Detection
+ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design
+HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution
+Bayesian target optimisation for high-precision holographic optogenetics
+SwiFT: Swin 4D fMRI Transformer
+Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling
+ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation
+Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark
+SUPA: A Lightweight Diagnostic Simulator for Machine Learning in Particle Physics
+Newton–Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems
+Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis
+HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception
+Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents
+Mixed Samples as Probes for Unsupervised Model Selection in Domain Adaptation
+SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models
+Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration
+Conservative Offline Policy Adaptation in Multi-Agent Games
+SoTTA: Robust Test-Time Adaptation on Noisy Data Streams
+Subspace Identification for Multi-Source Domain Adaptation
+Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games
+Feature Adaptation for Sparse Linear Regression
+Monte Carlo Tree Search with Boltzmann Exploration
+Degraded Polygons Raise Fundamental Questions of Neural Network Perception
+The Best of Both Worlds in Network Population Games: Reaching Consensus and Convergence to Equilibrium
+Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation
+GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising
+HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception
+Multi-body SE(3) Equivariance for Unsupervised Rigid Segmentation and Motion Estimation
+Adaptive Contextual Perception: How To Generalize To New Backgrounds and Ambiguous Objects
+Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors
+TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation
+ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers
+PoET: A generative model of protein families as sequences-of-sequences
+Incomplete Multimodality-Diffused Emotion Recognition
+Hierarchical VAEs provide a normative account of motion processing in the primate brain
+DeWave: Discrete Encoding of EEG Waves for EEG to Text Translation
+Scaling laws for language encoding models in fMRI
+Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?
+Accelerating Motion Planning via Optimal Transport
+VideoComposer: Compositional Video Synthesis with Motion Controllability
+DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models
+Score-based Generative Modeling through Stochastic Evolution Equations in Hilbert Spaces
+Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models
+What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.
+Neural Priming for Sample-Efficient Adaptation
+Generalized Semi-Supervised Learning via Self-Supervised Feature Adaptation
+Self-Adaptive Motion Tracking against On-body Displacement of Flexible Sensors
+A Finite-Particle Convergence Rate for Stein Variational Gradient Descent
+Pointwise uncertainty quantification for sparse variational Gaussian process regression with a Brownian motion prior
+Make the U in UDA Matter: Invariant Consistency Learning for Unsupervised Domain Adaptation
+Exploiting hidden structures in non-convex games for convergence to Nash equilibrium
+Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks
+"Beyond Invariance: Test-Time Label-Shift Adaptation for Addressing ""Spurious"" Correlations"
+Timewarp: Transferable Acceleration of Molecular Dynamics by Learning Time-Coarsened Dynamics
+FABind: Fast and Accurate Protein-Ligand Binding
+How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception
+FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing
+Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion
+EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding
+DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein
+Randomized Sparse Neural Galerkin Schemes for Solving Evolution Equations with Deep Networks
+QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning
+Accelerated Training via Incrementally Growing Neural Networks using Variance Transfer and Learning Rate Adaptation
+SUBP: Soft Uniform Block Pruning for 1$\times$N Sparse CNNs Multithreading Acceleration
+Efficient Low-rank Backpropagation for Vision Transformer Adaptation
+Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models
+Unifying GANs and Score-Based Diffusion as Generative Particle Models
+Task-Robust Pre-Training for Worst-Case Downstream Adaptation
+Diffusion-Based Probabilistic Uncertainty Estimation for Active Domain Adaptation
+Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction
+Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation
+Understanding Few-Shot Learning: Measuring Task Relatedness and Adaptation Difficulty via Attributes
+First Order Methods with Markovian Noise: from Acceleration to Variational Inequalities
+Provably Fast Finite Particle Variants of SVGD via Virtual Particle Stochastic Approximation
+Quantum speedups for stochastic optimization
+Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria
+Adversarial Self-Training Improves Robustness and Generalization for Gradual Domain Adaptation
+Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games
+"On quantum backpropagation, information reuse, and cheating measurement collapse"
+Robust covariance estimation with missing values and cell-wise contamination
+Protein Design with Guided Discrete Diffusion
+Ecosystem-level Analysis of Deployed Machine Learning Reveals Homogeneous Outcomes
+Injecting Multimodal Information into Rigid Protein Docking via Bi-level Optimization
+AVIDa-hIL6: A Large-Scale VHH Dataset Produced from an Immunized Alpaca for Predicting Antigen-Antibody Interactions
+Predicting a Protein's Stability under a Million Mutations
+Full-Atom Protein Pocket Design via Iterative Refinement
+Chanakya: Learning Runtime Decisions for Adaptive Real-Time Perception
+Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion
+ATTA: Anomaly-aware Test-Time Adaptation for Out-of-Distribution Detection in Segmentation
+Enhancing Motion Deblurring in High-Speed Scenes with Spike Streams
+Diversifying Spatial-Temporal Perception for Video Domain Generalization
+Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision
+MotionGPT: Human Motion as a Foreign Language
+Performance-optimized deep neural networks are evolving into worse models of inferotemporal visual cortex
+Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow
+Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding
+Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes
+Public Opinion Field Effect Fusion in Representation Learning for Trending Topics Diffusion
+RDumb: A simple approach that questions our progress in continual test-time adaptation
+Topological Parallax: A Geometric Specification for Deep Perception Models
+Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing
+Your representations are in the network: composable and parallel adaptation for large scale models
+Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model
+Variance-Reduced Gradient Estimation via Noise-Reuse in Online Evolution Strategies
+Quantum Bayesian Optimization
+MoVie: Visual Model-Based Policy Adaptation for View Generalization
+GraphMP: Graph Neural Network-based Motion Planning with Efficient Graph Search
+Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?
+Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective
+Mixture Weight Estimation and Model Prediction in Multi-source Multi-target Domain Adaptation
+Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation
+Language Is Not All You Need: Aligning Perception with Language Models
+Wide Neural Networks as Gaussian Processes: Lessons from Deep Equilibrium Models
+GEQ: Gaussian Kernel Inspired Equilibrium Models
+One-Step Diffusion Distillation via Deep Equilibrium Models
+Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation
+DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening
+QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules
+A Hierarchical Training Paradigm for Antibody Structure-sequence Co-design
+LART: Neural Correspondence Learning with Latent Regularization Transformer for 3D Motion Transfer
+AutoGO: Automated Computation Graph Optimization for Neural Network Evolution
+PromptRestorer: A Prompting Image Restoration Method with Degradation Perception
+DäRF: Boosting Radiance Fields from Sparse Input Views with Monocular Depth Adaptation
+Learning Motion Refinement for Unsupervised Face Animation
+Self-Supervised Motion Magnification by Backpropagating Through Optical Flow
+Social Motion Prediction with Cognitive Hierarchies
+Diffusion-TTA: Test-time Adaptation of Discriminative Models via Generative Feedback
+Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection
+Open Compound Domain Adaptation with Object Style Compensation for Semantic Segmentation
+SPA: A Graph Spectral Alignment Perspective for Domain Adaptation
+xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data
+Spatially Resolved Gene Expression Prediction from Histology Images via Bi-modal Contrastive Learning
+Response Length Perception and  Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline
+Alleviating the Semantic Gap for Generalized fMRI-to-Image Reconstruction
+Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors
+Brain Dissection: fMRI-trained Networks Reveal Spatial Selectivity in the Processing of Natural Images
+Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation
+Geometry-Aware Adaptation for Pretrained Models
+On the choice of Perception Loss Function for Learned Video Compression
+Domain Re-Modulation for Few-Shot Generative Domain Adaptation
+AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders
+ESSEN: Improving Evolution State Estimation for Temporal Networks using Von Neumann Entropy
+Convolutional Visual Prompt for Robust Visual Perception
+Spectral Evolution and Invariance in Linear-width Neural Networks
+Continuous-time Analysis of Anchor Acceleration
+Particle-based Variational Inference with Generalized Wasserstein Gradient Flow
+Cross-Domain Policy Adaptation via Value-Guided Data Filtering
+Design from Policies: Conservative Test-Time Adaptation for Offline Policy Optimization
+Flexible Attention-Based Multi-Policy Fusion for Efficient Deep Reinforcement Learning
+Similarity-based cooperative equilibrium
+Tempo Adaptation in Non-stationary Reinforcement Learning
+Equivariant Adaptation of Large Pretrained Models
+Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction
+Graph Denoising Diffusion for Inverse Protein Folding
+ProteinShake: Building datasets and benchmarks for deep learning on protein structures
+DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing
+BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series
+The Drunkard’s Odometry: Estimating Camera Motion in Deforming Scenes
+Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images
+Modeling Human Visual Motion Processing with Trainable Motion Energy Sensing and a Self-attention Network
+A Step Towards Worldwide Biodiversity Assessment:  The BIOSCAN-1M Insect Dataset
+WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes
+Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs
+Temporal Continual Learning with Prior Compensation for Human Motion Prediction
+Perception Test: A Diagnostic Benchmark for Multimodal Video Models
+Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context
+Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset
+"ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics"
+SG×P : A Sorghum Genotype × Phenotype Prediction Dataset and Benchmark
+Into the Single Cell Multiverse: an End-to-End Dataset for Procedural Knowledge Extraction in Biomedical Texts
+SARAMIS: Simulation Assets for Robotic Assisted and Minimally Invasive Surgery
+Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Smart Textile
+YouTubePD: A Multimodal Benchmark for Parkinson’s Disease Analysis
+WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting
+Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking
+A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks
+Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models
+Deep Equilibrium Based Neural Operators for Steady-State PDEs
+Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception
+Physics-Informed Bayesian Optimization of Variational Quantum Circuits
+ContinuAR: Continuous Autoregression For Infinite-Fidelity Fusion
+Combinatorial Optimization with Policy Adaptation using Latent Space Search
+VisAlign: Dataset for Measuring the Alignment between AI and Humans in Visual Perception
+Higher-Order Uncoupled Dynamics Do Not Lead to Nash Equilibrium - Except When They Do
+[Re] Bandit Theory and Thompson Sampling-guided Directed Evolution for Sequence Optimization
+Active Test-Time Adaptation: Theoretical Analyses and An Algorithm
+Project and Probe: Sample-Efficient Adaptation by Interpolating Orthogonal Features
+DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text
+Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting
+Towards LLM4QPE: Unsupervised Pretraining of Quantum Property Estimation and A Benchmark
+Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space
+Fusion Is Not Enough: Single Modal Attacks on Fusion Models for 3D Object Detection
+Transformer Fusion with Optimal Transport
+FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning
+Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation
+EBMDock: Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model
+Benign Oscillation of Stochastic Gradient Descent with Large Learning Rate
+VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition
+Meta-Evolve: Continuous Robot Evolution for One-to-many Policy Transfer
+SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation
+Entropy is not Enough for Test-Time Adaptation: From the Perspective of Disentangled Factors
+Dynamics-Informed Protein Design with Structure Conditioning
+Evaluating Representation Learning on the Protein Structure Universe
+CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception
+Protein Discovery with Discrete Walk-Jump Sampling
+Don't Judge by the Look: Towards Motion Coherent Video Representation
+BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity
+Neural Polynomial Gabor Fields for Macro Motion Analysis
+GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors
+"Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning"
+OmniControl: Control Any Joint at Any Time for Human Motion Generation
+Protein-ligand binding representation learning from fine-grained interactions
+Towards Few-Shot Adaptation of Foundation Models via Multitask Finetuning
+LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving
+Neural Auto-designer for Enhanced Quantum Kernels
+Learning to design protein-protein interactions with enhanced generalization
+Input-gradient space particle inference for neural network ensembles
+Most discriminative stimuli for functional cell type clustering
+Perceptual Group Tokenizer: Building Perception with Iterative Grouping
+Few-shot Hybrid Domain Adaptation of Image Generator
+"Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots"
+Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss
+Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds
+Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control
+Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation
+Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment
+Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators
+NeRM: Learning Neural Representations for High-Framerate Human Motion Synthesis
+Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition
+From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module
+"Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning"
+Test-time Adaptation against Multi-modal Reliability Bias
+CLAP: Collaborative Adaptation for Patchwork Learning
+Accelerated Sampling with Stacked Restricted Boltzmann Machines
+The Consensus Game: Language Model Generation via Equilibrium Search
+The Expressive Power of Low-Rank Adaptation
+ReFusion: Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion
+CellPLM: Pre-training of Cell Language Model Beyond Single Cells
+Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models
+Protein Multimer Structure Prediction via Prompt Learning
+Generative Adversarial Equilibrium Solvers
+Deep Reinforcement Learning for Modelling Protein Complexes
+"Advancing the Lower Bounds: an Accelerated, Stochastic, Second-order Method with Optimal Adaptation to Inexactness"
+PROGRAM: PROtotype GRAph Model based Pseudo-Label Learning for Test-Time Adaptation
+Enhancing Transferable Adversarial Attacks on Vision Transformers through Gradient Normalization Scaling and High-Frequency Adaptation
+A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation
+Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI
+QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models
+De novo Protein Design Using Geometric Vector Field Networks
+Topological data analysis on noisy quantum computers
+MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field
+Curriculum reinforcement learning for quantum architecture search under hardware errors
+Batched Low-Rank Adaptation of Foundation Models
+Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models
+Improving equilibrium propagation without weight symmetry through Jacobian homeostasis
+Brain decoding: toward real-time reconstruction of visual perception
+Adaptive Window Pruning for Efficient Local Motion Deblurring
+Universal Humanoid Motion Representations for Physics-Based Control
+GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules
+Improving protein optimization with smoothed fitness landscapes
+TapMo: Shape-aware Motion Generation of Skeleton-free Characters
+Debiasing Algorithm through Model Adaptation
+CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning
+Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation
+SE(3)-Stochastic Flow Matching for Protein Backbone Generation
+Single Motion Diffusion
+COCO-Periph: Bridging the Gap Between Human and Machine Perception in the Periphery
+ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation
+SEPT: Towards Efficient Scene Representation Learning for Motion Prediction
+Memory-Assisted Sub-Prototype Mining for Universal Domain Adaptation
+Consciousness-Inspired Spatio-Temporal Abstractions for Better Generalization in Reinforcement Learning
+Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow
+VeRA: Vector-based Random Matrix Adaptation
+Efficient Score Matching with Deep Equilibrium Layers
+Knowledge Fusion of Large Language Models
+Rethinking the symmetry-preserving circuits for constrained variational quantum algorithms
+An Extensible Framework for Open Heterogeneous Collaborative Perception
+MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding
+Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?
+KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement
+Gradual Domain Adaptation via Gradient Flow
+Bayesian Low-rank Adaptation for Large Language Models
+Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning
+RDesign: Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design
+Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction
+Human Motion Diffusion as a Generative Prior
+Learning 3D Particle-based Simulators from RGB-D Videos
+Probabilistic Adaptation of Black-Box Text-to-Video Models
+Weakly Supervised Virus Capsid Detection with Image-Level Annotations in Electron Microscopy Images
+Parameter-Efficient Multi-Task Model Fusion with Partial Linearization
+Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling
+AUGCAL: Improving Sim2Real Adaptation by Uncertainty Calibration on Augmented Synthetic Images
+Fast Equilibrium of SGD in Generic Situations
+Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials
+Decoding Natural Images from EEG for Object Recognition
+Generative Human Motion Stylization in Latent Space
+Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models
+MCM: Masked Cell Modeling for Anomaly Detection in Tabular Data
+SaProt: Protein Language Modeling with Structure-aware Vocabulary
+Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition
+BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks
+Adaptive Observation Cost Control for Variational Quantum Eigensolvers
+Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation
+Protein Conformation Generation via Force-Guided SE(3) Diffusion Models
+Diffusion Language Models Are Versatile Protein Learners
+Evaluation of Test-Time Adaptation Under Computational Time Constraints
+RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation
+Potential Based Diffusion Motion Planning
+Pairwise Alignment Improves Graph Domain Adaptation
+GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation
+Nesting Particle Filters for Experimental Design in Dynamical Systems
+ESM All-Atom: Multi-Scale Protein Language Model for Unified Molecular Modeling
+AlphaFold Meets Flow Matching for Generating Protein Ensembles
+Enforcing Constraints in RNA Secondary Structure Predictions: A Post-Processing Framework Based on the Assignment Problem
+CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations
+Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads
+Quantum Implicit Neural Representations
+Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?
+Exploring the LLM Journey from Cognition to Expression with Linear Representations
+Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition
+Positive Concave Deep Equilibrium Models
+Evolution-Inspired Loss Functions for Protein Representation Learning
+SSL4Q: Semi-Supervised Learning of Quantum Data with Application to Quantum State Classification
+Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates
+Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models
+CarbonNovo: Joint Design of Protein Structure and Sequence Using a Unified Energy-based Model
+TabLog: Test-Time Adaptation for Tabular Data Using Logic Rules
+GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer
+IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation
+The Perception-Robustness Tradeoff in Deterministic Image Restoration
+Knowledge-aware Reinforced Language Models for Protein Directed Evolution
+Fast-Slow Test-Time Adaptation for Online Vision-and-Language Navigation
+Batch Singular Value Polarization and Weighted Semantic Augmentation for Universal Domain Adaptation
+Predictive Dynamic Fusion
+LangCell: Language-Cell Pre-training for Cell Identity Understanding
+Momentum Particle Maximum Likelihood
+HumanTOMATO: Text-aligned Whole-body Motion Generation
+Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space
+Test-Time Degradation Adaptation for Open-Set Image Restoration
+Getting the most out of your tokenizer for pre-training and domain adaptation
+Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach
+Quantum Algorithms and Lower Bounds for Finite-Sum Optimization
+Block Acceleration Without Momentum: On Optimal Stepsizes of Block Gradient Descent for Least-Squares
+Stationary Latent Weight Inference for Unreliable Observations from Online Test-Time Adaptation
+Cross-Domain Policy Adaptation by Capturing Representation Mismatch
+Minimally Modifying a Markov Game to Achieve Any Nash Equilibrium and Value
+PASOA- PArticle baSed Bayesian Optimal Adaptive design
+Sparsest Models Elude Pruning: An Exposé of Pruning’s Current Capabilities
+Dirichlet Flow Matching with Applications to DNA Sequence Design
+SurfPro: Functional Protein Design Based on Continuous Surface
+Bringing Motion Taxonomies to Continuous Domains via GPLVM on Hyperbolic manifolds
+Gibbs Sampling of Continuous Potentials on a Quantum Computer
+How Learning by Reconstruction Produces Uninformative Features For Perception
+Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions
+Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design
+Prototypical Transformer As Unified Motion Learners
+Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation
+SuDA: Support-based Domain Adaptation for Sim2Real Hinge Joint Tracking with Flexible Sensors
+Measuring Stochastic Data Complexity with Boltzmann Influence Functions
+CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series
+RoboMP$^2$: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models
+Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models
+"Junk DNA Hypothesis: Pruning Small Pre-Trained Weights $\textit{Irreversibly}$ and $\textit{Monotonically}$ Impairs ``Difficult"" Downstream Tasks in LLMs"
+Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret
+"Antibody Design Using a Score-based Diffusion Model Guided by Evolutionary, Physical and Geometric Constraints"
+Differentially Private Domain Adaptation with Theoretical Guarantees
+FreeBind: Free Lunch in Unified Multimodal Space via Knowledge Fusion
+Diversified Batch Selection for Training Acceleration
+Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning
+Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation
+Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning
+Quantum Theory and Application of Contextual Optimal Transport
+Deciphering RNA Secondary Structure Prediction: A Probabilistic K-Rook Matching Perspective
+Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration
+Dissecting Multimodality in VideoQA Transformer Models by Impairing Modality Fusion
+"Guiding LLMs The Right Way: Fast, Non-Invasive Constrained Generation"
+LoRA+: Efficient Low Rank Adaptation of Large Models
+PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR
+Improving Antibody Humanness Prediction using Patent Data
+ESNet: Evolution and Succession Network for High-Resolution Salient Object Detection
+Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique
+Iterated Denoising Energy Matching for Sampling from Boltzmann Densities
+Deep Fusion: Efficient Network Training via Pre-trained Initializations
+Pseudo-Calibration: Improving Predictive Uncertainty Estimation in Unsupervised Domain Adaptation
+BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation
+"Two Fists, One Heart: Multi-Objective Optimization Based Strategy Fusion for Long-tailed Learning"
+Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models
+EvIL: Evolution Strategies for Generalisable Imitation Learning
+Position: Opportunities Exist for Machine Learning in Magnetic Fusion Energy
+Fast Peer Adaptation with Context-aware Exploration
+Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling
+Quantum Positional Encodings for Graph Neural Networks
+Efficient Non-stationary Online Learning by Wavelets with Applications to Online Distribution Shift Adaptation
+Bayesian Adaptation of Network Depth and Width for Continual Learning
+Path-Guided Particle-based Sampling
+Equilibrium of Data Markets with Externality
+CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback
+Quantum Algorithm for Online Exp-concave Optimization
+Privacy-Preserving Data Release Leveraging Optimal Transport and Particle Gradient Descent
+Category-Aware Active Domain Adaptation
+Few-shot Adaptation to Distribution Shifts By Mixing Source and Target Embeddings
+REST: Efficient and Accelerated EEG Seizure Analysis through Residual State Updates
+Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model
+Subhomogeneous Deep Equilibrium Models
+Learning Scale-Aware Spatio-temporal Implicit Representation for Event-based Motion Deblurring
+Rotational Equilibrium: How Weight Decay Balances Learning Across Neural Networks
+Vector Quantization Pretraining for EEG Time Series with Random Projection and Phase Alignment
+Bootstrapping Fisher Market Equilibrium and First-Price Pacing Equilibrium
+Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design
+Test-Time Model Adaptation with Only Forward Passes
+Particle Denoising Diffusion Sampler
+MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data
+RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching
+Debiased Offline Representation Learning for Fast Online Adaptation in Non-stationary Dynamics
+Promptbreeder: Self-Referential Self-Improvement via Prompt Evolution
+Practical Hamiltonian Monte Carlo on Riemannian Manifolds via Relativity Theory
+Pricing with Contextual Elasticity and Heteroscedastic Valuation
+DoRA: Weight-Decomposed Low-Rank Adaptation
+Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis
+Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency
+Auctionformer: A Unified Deep Learning Algorithm for Solving Equilibrium Strategies in Auction Games
+NeWRF: A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction
+Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method
+DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation
+Unsupervised Domain Adaptation for Anatomical Structure Detection in Ultrasound Images
+Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures
+Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains
+QBMK: Quantum-based Matching Kernels for Un-attributed Graphs
+Image Fusion via Vision-Language Model
+EEGPT: Pretrained Transformer for Universal and Reliable Representation of EEG Signals
+AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking
+SfPUEL: Shape from Polarization under Unknown Environment Light
+Rethinking Misalignment in Vision-Language Model Adaptation from a Causal Perspective
+Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion
+Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model
+Style Adaptation and Uncertainty Estimation for Multi-Source Blended-Target Domain Adaptation
+Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration
+Suitable is the Best: Task-Oriented Knowledge Fusion in Vulnerability Detection
+DePLM: Denoising Protein Language Models for Property Optimization
+Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation
+"M$^3$GPT: An Advanced Multimodal, Multitask Framework  for Motion Comprehension and Generation"
+Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering
+Semi-Open 3D Object Retrieval via Hierarchical Equilibrium on Hypergraph
+Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation
+BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping
+Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data
+TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering
+DeltaDEQ: Exploiting Heterogeneous Convergence for Accelerating Deep Equilibrium Iterations
+Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation
+Gradual Domain Adaptation via Manifold-Constrained Distributionally Robust Optimization
+Non-asymptotic Approximation Error Bounds of Parameterized Quantum Circuits
+Bayesian Domain Adaptation with Gaussian Mixture Domain-Indexing
+Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework
+"3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability"
+MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering
+LLM-based Skill Diffusion for Zero-shot Policy Adaptation
+SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion
+Kermut: Composite kernel regression for protein variant effects
+HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data
+MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting
+Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models
+Text to Blind Motion
+MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence
+DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA
+Quantum algorithm for large-scale market equilibrium computation
+HEST-1k: A Dataset For Spatial Transcriptomics and Histology Image Analysis
+MotionTTT: 2D Test-Time-Training Motion Estimation for 3D Motion Corrected MRI
+QVAE-Mole: The Quantum VAE with Spherical Latent Variable Learning for 3-D Molecule Generation
+VeXKD: The Versatile Integration of Cross-Modal Fusion and Knowledge Distillation for 3D Perception
+Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL
+Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm
+Motion Graph Unleashed: A Novel Approach to Video Prediction
+Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing
+Active learning of neural population dynamics using two-photon holographic optogenetics
+Cross-Device Collaborative Test-Time Adaptation
+MotionBooth: Motion-Aware Customized Text-to-Video Generation
+Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning
+Coupled Mamba: Enhanced Multimodal Fusion with Coupled State Space Model
+A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking
+Differentiable Quantum Computing for Large-scale Linear Control
+Boosting Transferability and Discriminability for Time Series Domain Adaptation
+Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection
+Visual Perception by Large Language Model’s Weights
+Association Pattern-aware Fusion for Biological Entity Relationship Prediction
+Asynchronous Perception Machine for Efficient  Test Time Training
+EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection
+NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction
+Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation
+Model Fusion through Bayesian Optimization in Language Model Fine-Tuning
+Constant Acceleration Flow
+Nuclear Fusion Diamond Polishing Dataset
+Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation
+CigTime: Corrective Instruction Generation Through Inverse Motion Editing
+FindingEmo: An Image Dataset for Emotion Recognition in the Wild
+BEACON: Benchmark for Comprehensive RNA Tasks and Language Models
+ReactZyme: A Benchmark for Enzyme-Reaction Prediction
+BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity
+AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction
+Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Generation
+Enhancing LLM’s Cognition via Structurization
+IODA: Instance-Guided One-shot Domain Adaptation for Super-Resolution
+CONTRAST: Continual Multi-source Adaptation to Dynamic Distributions
+Bridge-IF: Learning Inverse Protein Folding with Markov Bridges
+Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology
+ProtGO: Function-Guided Protein Modeling for Unified Representation Learning
+TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight
+PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding
+ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention
+DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion
+An Offline Adaptation Framework for Constrained Multi-Objective Reinforcement Learning
+The motion planning neural circuit in goal-directed navigation as Lie group operator search
+Separation and Bias of Deep Equilibrium Models on Expressivity and Learning Dynamics
+Federated Black-Box Adaptation for Semantic Segmentation
+Video Diffusion Models are Training-free Motion Interpreter and Controller
+LoRA-GA: Low-Rank Adaptation with Gradient Approximation
+Reproducibility of predictive networks for mouse visual cortex
+AirSketch: Generative Motion to Sketch
+SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain
+Multi-Scale Representation Learning for Protein Fitness Prediction
+Personalized Federated Learning via Feature Distribution Adaptation
+End-to-End Video Semantic Segmentation in Adverse Weather using Fusion Blocks and Temporal-Spatial Teacher-Student Learning
+Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line
+FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion
+Integrating GNN and Neural ODEs for Estimating Non-Reciprocal Two-Body Interactions in Mixed-Species Collective Motion
+Conditional Controllable Image Fusion
+Learning Place Cell Representations and Context-Dependent Remapping
+Cloud Object Detector Adaptation by Integrating Different Source Knowledge
+Unified Insights: Harnessing Multi-modal Data for Phenotype Imputation via View Decoupling
+MSA Generation with Seqs2Seqs Pretraining: Advancing Protein Structure Predictions
+SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction
+DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering
+Nesterov acceleration despite very noisy gradients
+GENOT: Entropic (Gromov) Wasserstein Flow Matching with Applications to Single-Cell Genomics
+GAVEL: Generating Games via Evolution and Language Models
+Muscles in Time: Learning to Understand Human Motion In-Depth by Simulating Muscle Activations
+Panacea: Pareto Alignment via Preference Adaptation for LLMs
+Active Perception for Grasp Detection via Neural Graspness Field
+FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion
+bit2bit: 1-bit quanta video reconstruction via self-supervised photon prediction
+Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach
+L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer
+MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling
+Provable Acceleration of Nesterov's Accelerated Gradient for Asymmetric Matrix Factorization and Linear Neural Networks
+Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective
+EEVR: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning
+Accelerating Nash Equilibrium Convergence in Monte Carlo Settings Through Counterfactual Value Based Fictitious Play
+A benchmark for prediction of transcriptomic responses to chemical perturbations across cell types
+NeuralFuse: Learning to Recover the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes
+MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training
+ReVideo: Remake a Video with Motion and Content Control
+Bias in Motion: Theoretical Insights into the Dynamics of Bias in SGD Training
+HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting
+"CRT-Fusion: Camera, Radar, Temporal Fusion Using  Motion Information  for 3D Object Detection"
+Exponential Quantum Communication Advantage in Distributed Inference and Learning
+PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models
+Counter-Current Learning: A Biologically Plausible Dual Network Approach for Deep Learning
+BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models
+Deep Equilibrium Algorithmic Reasoning
+Generalized Protein Pocket Generation with Prior-Informed Flow Matching
+Med-Real2Sim: Non-Invasive Medical Digital Twins using Physics-Informed Self-Supervised Learning
+Quantum Deep Equilibrium Models
+Test-Time Dynamic Image Fusion
+Pre-Trained Multi-Goal Transformers with Prompt Optimization for Efficient Online Adaptation
+"Towards a ""Universal Translator"" for Neural Dynamics at Single-Cell, Single-Spike Resolution"
+CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning
+Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning
+Persistent Test-time Adaptation in Recurring Testing Scenarios
+Cell ontology guided transcriptome foundation model
+PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling
+Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model
+"Revisiting, Benchmarking and Understanding Unsupervised Graph Domain Adaptation"
+Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games
+UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles
+Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation
+EMGBench: Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography
+Test-time Adaptation in Non-stationary Environments via Adaptive Representation Alignment
+UniMTS: Unified Pre-training for Motion Time Series
+Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation
+Learning Cooperative Trajectory Representations for Motion Forecasting
+Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization
+TinyTTA: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices
+Quadratic Quantum Variational Monte Carlo
+E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection
+Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization
+Who’s Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation
+Open LLMs are Necessary for Current Private Adaptations and Outperform their Closed Alternatives
+Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation
+Paths to Equilibrium in Games
+WATT: Weight Average Test Time Adaptation of CLIP
+Online Adaptation of Language Models with a Memory of Amortized Contexts
+RETR: Multi-View Radar Detection Transformer for Indoor Perception
+Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation
+ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution
+Enhancing Domain Adaptation through Prompt Gradient Alignment
+Infusing Self-Consistency into Density Functional Theory Hamiltonian Prediction via Deep Equilibrium Models
+ReMAP: Neural Model Reprogramming with Network Inversion and Retrieval-Augmented Mapping for Adaptive Motion Forecasting
+Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction
+RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling
+Parameter Symmetry and Noise Equilibrium of Stochastic Gradient Descent
+"Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction"
+Flexible Context-Driven Sensory Processing in Dynamical Vision Models
+Revisiting motion information for RGB-Event tracking with MOT philosophy
+SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models
+Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli
+Training Compute-Optimal Protein Language Models
+Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation
+Neural decoding from stereotactic EEG: accounting for electrode variability across subjects
+Quantum Algorithms for Non-smooth Non-convex Optimization
+Online Feature Updates Improve Online (Generalized) Label Shift Adaptation
+Fair Bilevel Neural Network (FairBiNN): On Balancing fairness and accuracy via Stackelberg Equilibrium
+Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli
+Generalizable Implicit Motion Modeling for Video Frame Interpolation
+On Giant's Shoulders: Effortless Weak to Strong by Dynamic Logits Fusion
+Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective
+Real-time Stereo-based 3D Object Detection for Streaming Perception
+Bidirectional Recurrence for Cardiac Motion Tracking with Gaussian Process Latent Coding
+Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks
+Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution
+E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation
+Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception
+Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion
+Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation
+Learning Superconductivity from Ordered and Disordered Material Structures
+Optimal-state Dynamics Estimation for Physics-based Human Motion Capture from Videos
+BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity
+fMRI predictors based on language models of increasing complexity recover brain left lateralization
+Retrospective for the Dynamic Sensorium Competition for predicting large-scale mouse primary visual cortex activity from videos
+Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex.
+Towards Reliable Model Selection for Unsupervised Domain Adaptation: An Empirical Study and A Certified Baseline
+Frustratingly Easy Test-Time Adaptation of Vision-Language Models
+Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure
+Differentiable Modal Synthesis for Physical Modeling of Planar String Sound and Motion Simulation
+GL-NeRF: Gauss-Laguerre Quadrature Enables Training-Free NeRF Acceleration
+To Err Like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation
+Particle Semi-Implicit Variational Inference
+Meta-Reinforcement Learning with Universal Policy Adaptation: Provable Near-Optimality under All-task Optimum Comparator
+Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning
+Bias Amplification in Language Model Evolution: An Iterated Learning Perspective
+SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion
+Protein-Nucleic Acid Complex Modeling with Frame Averaging Transformer
+User-Creator Feature Polarization in Recommender Systems with Dual Influence
+PrivAuditor: Benchmarking Data Protection Vulnerabilities in LLM Adaptation Techniques
+TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation
+Skinned Motion Retargeting with Dense Geometric Interaction Perception
+Domain Adaptation for Large-Vocabulary Object Detectors
+ACFun: Abstract-Concrete Fusion Facial Stylization
+Disentangling the Roles of Distinct Cell Classes with Cell-Type Dynamical Systems
+Optimizing over Multiple Distributions under Generalized Quasar-Convexity Condition
+FouRA: Fourier Low-Rank Adaptation
+A SARS-CoV-2 Interaction Dataset and VHH Sequence Corpus for Antibody Language Models
+Improved Particle Approximation Error for Mean Field Neural Networks
+A Taxonomy of Challenges to Curating Fair Datasets
+Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences
+OTTER: Effortless Label Distribution Adaptation of Zero-shot Models
+FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling
+DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception
+The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains
+Geodesic Optimization for Predictive Shift Adaptation on EEG data
+E-Motion: Future Motion Simulation via Event Sequence Diffusion
+QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation
+Acceleration Exists! Optimization Problems When Oracle Can Only Compare Objective Function Values
+ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving
+Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection
+Nuclear Norm Regularization for Deep Learning
+DeMo: Decoupling Motion Forecasting into  Directional Intentions and Dynamic States
+Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments
+EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity
+$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials
+Learning to be Smooth: An End-to-End Differentiable Particle Smoother
+$E^3$: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset
+On $f$-Divergence Principled Domain Adaptation: An Improved Framework
+Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts
+Motion Forecasting in Continuous Driving
+NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping
+What is my quantum computer good for? Quantum capability learning with physics-aware neural networks
+Self-Distilled Depth Refinement with Noisy Poisson Fusion
+Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss
+A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis
+EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals
+Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation
+Transferable Boltzmann Generators
+Beyond the Doors of Perception: Vision Transformers Represent Relations Between Objects
+DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices
+Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation
+Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement
+Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning
+Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning
+Towards Stable Representations for Protein Interface Prediction
+Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction
+ActSort: An active-learning accelerated cell sorting algorithm for large-scale calcium imaging datasets
+Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA

@@ -1,0 +1,589 @@
+Title,Year
+Understanding image motion with group representations,2018
+Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step,2018
+Auto-Conditioned Recurrent Networks for Extended Complex Human Motion Synthesis,2018
+Progressive Reinforcement Learning with Distillation for Multi-Skilled Motion Control,2018
+Deep Learning and Quantum Entanglement: Fundamental Connections with Implications to Network Design,2018
+On the Optimization of Deep Networks: Implicit Acceleration by Overparameterization,2018
+ContextNet: Deep learning for Star Galaxy Classification,2018
+Scalable approximate Bayesian inference for particle tracking data,2018
+On Acceleration with Noise-Corrupted Gradients,2018
+Local Convergence Properties of SAGA/Prox-SVRG and Acceleration,2018
+Video Prediction with Appearance and Motion Conditions,2018
+DVAE#: Discrete Variational Autoencoders with Relaxed Boltzmann Priors,2018
+GumBolt: Extending Gumbel trick to Boltzmann priors,2018
+Designing by Training: Acceleration Neural Network for Fast High-Dimensional Convolution,2018
+Towards Understanding Acceleration Tradeoff between Momentum and Asynchrony in Nonconvex Stochastic Optimization,2018
+Practical exact algorithm for trembling-hand equilibrium refinements in games,2018
+Acceleration through Optimistic No-Regret Dynamics,2018
+GPyTorch: Blackbox Matrix-Matrix Gaussian Process Inference with GPU Acceleration,2018
+Variational PDEs for Acceleration on Manifolds and Application to Diffeomorphisms,2018
+Learning and Inference in Hilbert Space with Quantum Graphical Models,2018
+Multivariate Convolutional Sparse Coding for Electromagnetic Brain Signals,2018
+Online Learning of Quantum States,2018
+Direct Runge-Kutta Discretization Achieves Acceleration,2018
+Efficient Convex Completion of Coupled Tensors using Coupled Nuclear Norms,2018
+"Online Adaptive Methods, Universality and Acceleration",2018
+A2BCD: Asynchronous Acceleration with Optimal Complexity,2019
+Initialized Equilibrium Propagation for Backprop-Free Training,2019
+Function Space Particle Optimization for Bayesian Neural Networks,2019
+Learning Grid Cells as Vector Representation of Self-Position Coupled with Matrix Representation of Self-Motion,2019
+"Learning Particle Dynamics for Manipulating Rigid Bodies, Deformable Objects, and Fluids",2019
+On Dropout and Nuclear Norm Regularization,2019
+Acceleration of SVRG and Katyusha X by Inexact Preconditioning,2019
+Curvature-Exploiting Acceleration of Elastic Net Computations,2019
+Particle Flow Bayes' Rule,2019
+Collective Model Fusion for Multiple Black-Box Experts,2019
+A Dynamical Systems Perspective on Nesterov Acceleration,2019
+Understanding and Accelerating Particle-Based Variational Inference,2019
+"Anytime Online-to-Batch, Optimism and Acceleration",2019
+Sublinear quantum algorithms for training linear and kernel-based classifiers,2019
+Missing Not at Random in Matrix Completion: The Effectiveness of Estimating Missingness Probabilities Under a Low Nuclear Norm Assumption,2019
+Updates of Equilibrium Prop Match Gradients of Backprop Through Time in an RNN with Static Input,2019
+Deep Equilibrium Models,2019
+Quantum Entropy Scoring for Fast Robust Mean Estimation and Improved Outlier Detection,2019
+"Kalman Filter, Sensor Fusion, and Constrained Regression: Equivalences and Insights",2019
+q-means: A quantum algorithm for unsupervised machine learning,2019
+Sim2real transfer learning for 3D human pose estimation: motion to the rescue,2019
+Acceleration via Symplectic Discretization of High-Resolution Differential Equations,2019
+Trajectory of Alternating Direction Method of Multipliers and Adaptive Acceleration,2019
+Parameter elimination in particle Gibbs sampling,2019
+Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video,2019
+On Single Source Robustness in Deep Fusion Models,2019
+First Order Motion Model for Image Animation,2019
+Quantum Wasserstein Generative Adversarial Networks,2019
+Scalable Bayesian inference of dendritic voltage via spatiotemporal recurrent state space models,2019
+Perceiving the arrow of time in autoregressive motion,2019
+Deep Multimodal Multilinear Fusion with High-order Polynomial Pooling,2019
+A Generic Acceleration Framework for Stochastic Composite Optimization,2019
+Tensor Monte Carlo: Particle Methods for the GPU era,2019
+Regularized Anderson Acceleration for Off-Policy Deep Reinforcement Learning,2019
+Efficient Regret Minimization Algorithm for Extensive-Form Correlated Equilibrium,2019
+A Similarity-preserving Network Trained on Transformed Images Recapitulates Salient Features of the Fly Motion Detection Circuit,2019
+Quantum Embedding of Knowledge for Reasoning,2019
+Kernel Truncated Randomized Ridge Regression: Optimal Rates and Low Noise Acceleration,2019
+Variance Reduction in Stochastic Particle-Optimization Sampling,2020
+Quantum Expectation-Maximization for Gaussian mixture models,2020
+Channel Equilibrium Networks for Learning Deep Representation,2020
+Acceleration for Compressed Gradient Descent in Distributed and Federated Optimization,2020
+Quantum Boosting,2020
+Variance Reduced Coordinate Descent with Acceleration: New Method With a Surprising Application to Finite-Sum Problems,2020
+Acceleration through spectral density estimation,2020
+Sparsified Linear Programming for Zero-Sum Equilibrium Finding,2020
+Lorentz Group Equivariant Neural Network for Particle Physics,2020
+Learning Task-Agnostic Embedding of Multiple Black-Box Experts for Multi-Task Model Fusion,2020
+Variance Reduction and Quasi-Newton for Particle-Based Variational Inference,2020
+Model Fusion with Kullback--Leibler Divergence,2020
+Information Particle Filter Tree: An Online Algorithm for POMDPs with Belief-Based Rewards on Continuous Domains,2020
+Reinforcement Learning for Molecular Design Guided by Quantum Mechanics,2020
+Variational Autoencoders with Riemannian Brownian Motion Priors,2020
+Anderson Acceleration of Proximal Gradient Methods,2020
+Deep Multimodal Fusion by Channel  Exchanging,2020
+Multiscale Deep Equilibrium Models,2020
+Monotone operator equilibrium networks,2020
+Residual Force Control for Agile Human Behavior Imitation and Extended Motion Synthesis,2020
+Beyond Homophily in Graph Neural Networks: Current Limitations and Effective Designs,2020
+Inductive Quantum Embedding,2020
+Watch out! Motion is Blurring the Vision of Your Deep Neural Networks,2020
+Learning Restricted Boltzmann Machines with Sparse Latent Variables,2020
+No-Regret Learning Dynamics for Extensive-Form Correlated Equilibrium,2020
+Model Fusion via Optimal Transport,2020
+PRANK: motion Prediction based on RANKing,2020
+Dynamic Fusion of Eye Movement Data and Verbal Narrations in Knowledge-rich Domains,2020
+Acceleration with a Ball Optimization Oracle,2020
+First-Order Methods for Large-Scale Market Equilibrium Computation,2020
+Label-Aware Neural Tangent Kernel: Toward Better Generalization and Local Elasticity,2020
+Deep Rao-Blackwellised Particle Filters for Time Series Forecasting,2020
+Small Nash Equilibrium Certificates in Very Large Games,2020
+Learning with Optimized Random Features: Exponential Speedup by Quantum Machine Learning without Sparsity and Low-Rank Assumptions,2020
+Ensemble Distillation for Robust Model Fusion in Federated Learning,2020
+From Boltzmann Machines to Neural Networks and Back Again,2020
+Neuron-level Structured Pruning using Polarization Regularizer,2020
+Recurrent Quantum Neural Networks,2020
+Single-Photon Image Classification,2021
+On the mapping between Hopfield networks and Restricted Boltzmann Machines,2021
+Fidelity-based Deep Adiabatic Scheduling,2021
+Average-case Acceleration for Bilinear Games and Normal Matrices,2021
+Human-Level Performance in No-Press Diplomacy via Equilibrium Search,2021
+AdaFuse: Adaptive Temporal Fusion Network for Efficient Action Recognition,2021
+Estimating Lipschitz constants of monotone deep equilibrium models,2021
+EigenGame: PCA as a Nash Equilibrium,2021
+Understanding and Improving Encoder Layer Fusion in Sequence-to-Sequence Learning,2021
+Cross-Attentional Audio-Visual Fusion for Weakly-Supervised Action Localization,2021
+Large-Margin Contrastive Learning with Distance Polarization Regularizer,2021
+Multi-Agent Training beyond Zero-Sum with Correlated Equilibrium Meta-Solvers,2021
+Acceleration via Fractal Learning Rate Schedules,2021
+Generative Particle Variational Inference via Estimation of Functional Gradients,2021
+From Poincaré Recurrence to Convergence in Imperfect Information Games: Finding Equilibrium via Regularization,2021
+Stabilizing Equilibrium Models by Jacobian Regularization,2021
+Optimization of Graph Neural Networks: Implicit Acceleration by Skip Connections and More Depth,2021
+The Hintons in your Neural Network: a Quantum Field Theory View of Deep Learning,2021
+Exponentially Many Local Minima in Quantum Neural Networks,2021
+A Modular Analysis of Provable Acceleration via Polyak's Momentum: Training a Wide ReLU Network and a Deep Linear Network,2021
+RNN with Particle Flow for Probabilistic Spatio-temporal Forecasting,2021
+Differentiable Particle Filtering via Entropy-Regularized Optimal Transport,2021
+Quantum algorithms for reinforcement learning with a generative model,2021
+Fast margin maximization via dual acceleration,2021
+One Pass Late Fusion Multi-view Clustering,2021
+Model Fusion for Personalized Learning,2021
+MAU: A Motion-Aware Unit for Video Prediction and Beyond,2021
+Analytical Study of Momentum-Based Acceleration Methods in Paradigmatic High-Dimensional Non-Convex Problems,2021
+Private learning implies quantum stability,2021
+Attention Bottlenecks for Multimodal Fusion,2021
+H-NeRF: Neural Radiance Fields for Rendering and Temporal Reconstruction of Humans in Motion,2021
+A No-go Theorem for Robust Acceleration in the Hyperbolic Plane,2021
+The Inductive Bias of Quantum Kernels,2021
+Equilibrium and non-Equilibrium regimes in the learning of Restricted Boltzmann Machines,2021
+BayesIMP: Uncertainty Quantification for Causal Data Fusion,2021
+Multi-Person 3D Motion Prediction with Multi-Range Transformers,2021
+Particle Cloud Generation with Message Passing Generative Adversarial Networks,2021
+Robust Regression Revisited: Acceleration and Improved Estimation Rates,2021
+Stable Neural ODE with Lyapunov-Stable Equilibrium Points for Defending Against Adversarial Attacks,2021
+Differentiable Equilibrium Computation with Decision Diagrams for Stackelberg Models of Combinatorial Congestion Games,2021
+Latent Equilibrium: A unified learning theory for arbitrarily fast computation with arbitrarily slow neurons,2021
+Action-guided 3D Human Motion Prediction,2021
+Learning to dehaze with polarization,2021
+Loss function based second-order Jensen inequality and its application to particle variational inference,2021
+Parametrized Quantum Policies for Reinforcement Learning,2021
+Shape from Blur: Recovering Textured 3D Shape and Motion of Fast Moving Objects,2021
+A Geometric Structure of Acceleration and Its Role in Making Gradients Small Fast,2021
+Particle Dual Averaging: Optimization of Mean Field Neural Network with Global Convergence Rate Analysis,2021
+Training Feedback Spiking Neural Networks by Implicit Differentiation on the Equilibrium State,2021
+Redesigning the Transformer Architecture with Insights from Multi-particle Dynamical Systems,2021
+Spherical Motion Dynamics: Learning Dynamics of Normalized Neural Network using SGD and Weight Decay,2021
+Semialgebraic Representation of Monotone Deep Equilibrium Models and Applications to Certification,2021
+NEO: Non Equilibrium Sampling on the Orbits of a Deterministic Transform,2021
+Equilibrium Refinement for the Age of Machines: The One-Sided Quasi-Perfect Equilibrium,2021
+Minimizing Polarization and Disagreement in Social Networks via Link Recommendation,2021
+Unsupervised Motion Representation Learning with Capsule Autoencoders,2021
+Reinforcement learning for optimization of variational quantum circuit architectures,2021
+Online Market Equilibrium with Application to Fair Division,2021
+Global Convergence  to Local Minmax Equilibrium in Classes of Nonconvex Zero-Sum Games,2021
+Joint inference and input optimization in equilibrium networks,2021
+Reducing Collision Checking for Sampling-Based Motion Planning Using Graph Neural Networks,2021
+Three-dimensional spike localization and improved motion correction for Neuropixels recordings,2021
+"Damped Anderson Mixing for Deep Reinforcement Learning: Acceleration, Convergence, and Stabilization",2021
+Multi-Agent Reinforcement Learning for Active Voltage Control on Power Distribution Networks,2021
+PF-GNN: Differentiable particle filtering based approximation of universal graph representations,2022
+Critical Points in Quantum Generative Models,2022
+An Information Fusion Approach to Learning with Instance-Dependent Label Noise,2022
+ProtoRes: Proto-Residual Network for Pose Authoring via Learned Inverse Kinematics,2022
+Latent Variable Sequential Set Transformers for Joint Multi-Agent Motion Prediction,2022
+Neural Deep Equilibrium Solvers,2022
+The Boltzmann Policy Distribution: Accounting for Systematic Suboptimality in Human Models,2022
+Optimization inspired Multi-Branch Equilibrium Models,2022
+Certified Robustness for Deep Equilibrium Models via Interval Bound Propagation,2022
+Declarative nets that are equilibrium models,2022
+Particle Stochastic Dual Coordinate Ascent: Exponential convergent algorithm for mean field neural network optimization,2022
+Acceleration of Federated Learning with Alleviated Forgetting in Local Training,2022
+Deep Neural Network Fusion via Graph Matching with Applications to Model Ensemble and Federated Learning,2022
+CerDEQ: Certifiable Deep Equilibrium Model,2022
+Hessian-Free High-Resolution Nesterov Acceleration For Sampling,2022
+Accurate Quantization of Measures via Interacting Particle-based Optimization,2022
+Efficient Model-based Multi-agent Reinforcement Learning via Optimistic Equilibrium Computation,2022
+Welfare Maximization in Competitive Equilibrium: Reinforcement Learning for Markov Exchange Economy,2022
+Quantum-Inspired Algorithms from Randomized Numerical Linear Algebra,2022
+Deep equilibrium networks are sensitive to initialization statistics,2022
+Adaptive Inertia: Disentangling the Effects of Adaptive Learning Rate and Momentum,2022
+Unsupervised Time-Series Representation Learning with Iterative Bilinear Temporal-Spectral Fusion,2022
+Equivariant Quantum Graph Circuits,2022
+Feature Space Particle Inference for Neural Network Ensembles,2022
+ProxSkip: Yes! Local Gradient Steps Provably Lead to Communication Acceleration! Finally!,2022
+Three-stage Evolution and Fast Equilibrium for SGD with Non-degerate Critical Points,2022
+Centroid Approximation for Bootstrap: Improving Particle Quality at Inference,2022
+Provable Acceleration of Heavy Ball beyond Quadratics for a Class of Polyak-Lojasiewicz Functions when the Non-Convexity is Averaged-Out,2022
+Structure Preserving Neural Networks: A Case Study in the Entropy Closure of the Boltzmann Equation,2022
+Learning to Estimate and Refine Fluid Motion with Physical Dynamics,2022
+Particle Transformer for Jet Tagging,2022
+NeuroFluid: Fluid Dynamics Grounding with Particle-Driven Neural Radiance Fields,2022
+GALAXY: Graph-based Active Learning at the Extreme,2022
+Pessimistic Minimax Value Iteration: Provably Efficient Equilibrium Learning from Offline Datasets,2022
+Learning-based Optimisation of Particle Accelerators Under Partial Observability Without Real-World Training,2022
+BEVFusion: A Simple and Robust LiDAR-Camera Fusion Framework,2022
+[Re] Reproducibility Report: Contrastive Learning of Socially-aware Motion Representations,2022
+Learning Optimal Flows for Non-Equilibrium Importance Sampling,2022
+Contact-aware Human Motion Forecasting,2022
+Concentration of Data Encoding in Parameterized Quantum Circuits,2022
+GAR: Generalized Autoregression for Multi-Fidelity Fusion,2022
+Align then Fusion: Generalized Large-scale Multi-view Clustering with Anchor Matching Correspondences,2022
+HUMANISE: Language-conditioned Human Motion Generation in 3D Scenes,2022
+GraphQNTK: Quantum Neural Tangent Kernel for Graph Data,2022
+Path Independent Equilibrium Models Can Better Exploit Test-Time Computation,2022
+To update or not to update? Neurons at equilibrium in deep models,2022
+QUARK: Controllable Text Generation with Reinforced Unlearning,2022
+Holomorphic Equilibrium Propagation Computes Exact Gradients Through Finite Size Oscillations,2022
+Deep Equilibrium Approaches to Diffusion Models,2022
+Finding Correlated Equilibrium of Constrained Markov Game: A Primal-Dual Approach,2022
+The First Optimal Acceleration of High-Order Methods in Smooth Convex Optimization,2022
+Quantum Speedups of Optimizing Approximately Convex Functions with Applications to Logarithmic Regret Stochastic Convex Bandits,2022
+Re-Analyze Gauss: Bounds for Private Matrix Approximation via Dyson Brownian Motion,2022
+Hamiltonian Latent Operators for content and motion disentanglement in image sequences,2022
+Distributionally Robust Optimization via Ball Oracle Acceleration,2022
+Self-supervised surround-view depth estimation with volumetric feature fusion,2022
+Escaping from the Barren Plateau via Gaussian Initializations in Deep Variational Quantum Circuits,2022
+Constants of motion network,2022
+The least-control principle for local learning at equilibrium,2022
+Guaranteed Conservation of Momentum for Learning Particle-based Fluid Dynamics,2022
+A Closer Look at the Adversarial Robustness of Deep Equilibrium Models,2022
+Unsupervised Multi-Object Segmentation by Predicting Probable Motion Patterns,2022
+Learning Two-Player Markov Games: Neural Function Approximation and Correlated Equilibrium,2022
+Do Current Multi-Task Optimization Methods in Deep Learning Even Help?,2022
+Panchromatic and Multispectral Image Fusion via Alternating Reverse Filtering Network,2022
+NeMF: Neural Motion Fields for Kinematic Animation,2022
+Physics-Informed Implicit Representations of Equilibrium Network Flows,2022
+Learning Individualized Treatment Rules with Many Treatments: A Supervised Clustering Approach Using Adaptive Fusion,2022
+Sobolev Acceleration and Statistical Optimality for Learning Elliptic Equations via Gradient Descent,2022
+Systematic improvement of neural network quantum states using Lanczos,2022
+Acceleration in Distributed Sparse Regression,2022
+Communication Acceleration of Local Gradient Methods via an Accelerated Primal-Dual Algorithm with an Inexact Prox,2022
+Power and limitations of single-qubit native quantum neural networks,2022
+Matrix Multiplicative Weights Updates in Quantum Zero-Sum Games: Conservation Laws & Recurrence,2022
+Quantum Algorithms for Sampling Log-Concave Distributions and Estimating Normalizing Constants,2022
+Optimal and Adaptive Monteiro-Svaiter Acceleration,2022
+Learning-based Motion Planning in Dynamic Environments Using GNNs and Temporal Encoding,2022
+Toward Equation of Motion for Deep Neural Networks: Continuous-time Gradient Descent and Discretization Error Analysis,2022
+Differentiable Analog Quantum Computing for Optimization and Control,2022
+Online Deep Equilibrium Learning for Regularization by Denoising,2022
+Motion Transformer with Global Intention Localization and Local Movement Refinement,2022
+Coarse-to-Fine Vision-Language Pre-training with Fusion in the Backbone,2022
+"Turbocharging Solution Concepts: Solving NEs, CEs and CCEs with Neural Equilibrium Solvers",2022
+Dataless Knowledge Fusion by Merging Weights of Language Models,2023
+Unbiased Stochastic Proximal Solver for Graph Neural Networks with Equilibrium States,2023
+Stochastic Multi-Person 3D Motion Forecasting,2023
+Continuized Acceleration for Quasar Convex Functions  in Non-Convex Optimization,2023
+BEEF: Bi-Compatible Class-Incremental Learning via Energy-Based Expansion and Fusion,2023
+MaskFusion: Feature Augmentation for Click-Through Rate Prediction via Input-adaptive Mask Fusion,2023
+DiffMimic: Efficient Motion Mimicking with Differentiable Physics,2023
+Symmetric Pruning in Quantum Neural Networks,2023
+Model ensemble instead of prompt fusion: a sample-specific knowledge transfer method for few-shot prompt tuning,2023
+Pseudo-label Training and Model Inertia in Neural Machine Translation,2023
+Statistical Inference for Fisher Market Equilibrium,2023
+Win: Weight-Decay-Integrated Nesterov Acceleration for Adaptive Gradient Algorithms,2023
+"Backpropagation at the Infinitesimal Inference Limit of Energy-Based Models: Unifying Predictive Coding, Equilibrium Propagation, and Contrastive Hebbian Learning",2023
+Capturing the Motion of Every Joint: 3D Human Pose and Shape Estimation with Independent Tokens,2023
+"On the Convergence of AdaGrad(Norm) on $\mathbb{R}^d$: Beyond Convexity, Non-Asymptotic Rate and Acceleration",2023
+Sparsity May Cry: Let Us Fail (Current) Sparse Neural Networks Together!,2023
+Human Motion Diffusion Model,2023
+NTFields: Neural Time Fields for Physics-Informed Robot Motion Planning,2023
+MLPInit: Embarrassingly Simple GNN Training Acceleration with MLP Initialization,2023
+The Symmetric Generalized Eigenvalue Problem as a Nash Equilibrium,2023
+QuAnt: Quantum Annealing with Learnt Couplings,2023
+Classically Approximating Variational Quantum Machine Learning with Random Fourier Features,2023
+Compositional Prompt Tuning with Motion Cues for Open-vocabulary Video Relation Detection,2023
+A Self-Attention Ansatz for Ab-initio Quantum Chemistry,2023
+Particle-based Variational Inference with Preconditioned Functional Gradient Flow,2023
+Generative Causal Representation Learning for Out-of-Distribution Motion Forecasting,2023
+QuantumDARTS: Differentiable Quantum Architecture Search for Variational Quantum Algorithms,2023
+Quantum Lower Bounds for Finding Stationary Points of Nonconvex Functions,2023
+Learning Distributions over Quantum Measurement Outcomes,2023
+Hardness of Independent Learning and Sparse Equilibrium Computation in Markov Games,2023
+Analyzing Convergence in Quantum Neural Networks: Deviations from Neural Tangent Kernels,2023
+Learning Neural Constitutive Laws from Motion Observations for Generalizable PDE Dynamics,2023
+State and parameter learning with PARIS particle Gibbs,2023
+Semi Bandit dynamics in Congestion Games: Convergence to Nash Equilibrium and No-Regret Guarantees.,2023
+Near-Optimal Quantum Coreset Construction Algorithms for Clustering,2023
+Achieving Hierarchy-Free Approximation for Bilevel Programs with Equilibrium Constraints,2023
+Principled Acceleration of Iterative Numerical Methods Using Machine Learning,2023
+Efficient and Equivariant Graph Networks for Predicting Quantum Hamiltonian,2023
+Accelerated Stochastic Optimization Methods under Quasar-convexity,2023
+FusionRetro: Molecule Representation Fusion via In-Context Learning for Retrosynthetic Planning,2023
+End-to-end Training of Deep Boltzmann Machines by Unbiased Contrastive Divergence with Local Mode Initialization,2023
+Enabling First-Order Gradient-Based Learning for Equilibrium Computation in Markets,2023
+A Hybrid Quantum-Classical Approach based on the Hadamard Transform for the Convolutional Layer,2023
+Oscillation-free Quantization for Low-bit Vision Transformers,2023
+Quantum Speedups for Zero-Sum Games via Improved Dynamic Gibbs Sampling,2023
+Provable Dynamic Fusion for Low-Quality Multimodal Data,2023
+Stabilizing GANs' Training with Brownian Motion Controller,2023
+Motion Question Answering via Modular Motion Programs,2023
+QAS-Bench: Rethinking Quantum Architecture Search and A Benchmark,2023
+Are Equivariant Equilibrium Approximators Beneficial?,2023
+Quantum Policy Gradient Algorithm with Optimized Action Decoding,2023
+Quantum Ridgelet Transform: Winning Lottery Ticket of Neural Networks with Quantum Computation,2023
+Quantum 3D Graph Learning with Applications to Molecule Embedding,2023
+Efficient Quantum Algorithms for Quantum Optimal Control,2023
+Representation Learning with Multi-Step Inverse Kinematics: An Efficient and Optimal Approach to Rich-Observation RL,2023
+Improving Adversarial Robustness of Deep Equilibrium Models with Explicit Regulations Along the Neural Dynamics,2023
+NTK-approximating MLP Fusion for Efficient Language Model Fine-tuning,2023
+Towards Quantum Machine Learning for Constrained Combinatorial Optimization: a Quantum QAP Solver,2023
+FREDIS: A Fusion Framework of Refinement and Disambiguation for Unreliable Partial Label Learning,2023
+Efficient displacement convex optimization with particle gradient descent,2023
+Q-Flow: Generative Modeling for Differential Equations of Open Quantum Dynamics with Normalizing Flows,2023
+Is Consensus Acceleration Possible in Decentralized Optimization over Slowly Time-Varying Networks?,2023
+RH-BrainFS: Regional Heterogeneous Multimodal Brain Networks Fusion Strategy,2023
+Query-based Temporal Fusion with Explicit Motion for 3D Object Detection,2023
+ANTN: Bridging Autoregressive Neural Networks and Tensor Networks for Quantum Many-Body Simulation,2023
+Classical Simulation of Quantum Circuits: Parallel Environments and Benchmark,2023
+SUPA: A Lightweight Diagnostic Simulator for Machine Learning in Particle Physics,2023
+Hierarchical Semi-Implicit Variational Inference with Application to Diffusion Model Acceleration,2023
+Logarithmic-Regret Quantum Learning Algorithms for Zero-Sum Games,2023
+Monte Carlo Tree Search with Boltzmann Exploration,2023
+The Best of Both Worlds in Network Population Games: Reaching Consensus and Convergence to Equilibrium,2023
+GeoTMI: Predicting Quantum Chemical Property with Easy-to-Obtain Geometry via Positional Denoising,2023
+Multi-body SE(3) Equivariance for Unsupervised Rigid Segmentation and Motion Estimation,2023
+Learning Neural Implicit through Volume Rendering with Attentive Depth Fusion Priors,2023
+Hierarchical VAEs provide a normative account of motion processing in the primate brain,2023
+Accelerating Motion Planning via Optimal Transport,2023
+VideoComposer: Compositional Video Synthesis with Motion Controllability,2023
+Exploiting Connections between Lipschitz Structures for Certifiably Robust Deep Equilibrium Models,2023
+What Makes Data Suitable for a Locally Connected Neural Network? A Necessary and Sufficient Condition Based on Quantum Entanglement.,2023
+Self-Adaptive Motion Tracking against On-body Displacement of Flexible Sensors,2023
+A Finite-Particle Convergence Rate for Stein Variational Gradient Descent,2023
+Pointwise uncertainty quantification for sparse variational Gaussian process regression with a Brownian motion prior,2023
+Exploiting hidden structures in non-convex games for convergence to Nash equilibrium,2023
+Statistical Analysis of Quantum State Learning Process in Quantum Neural Networks,2023
+Timewarp: Transferable Acceleration of Molecular Dynamics by Learning Time-Coarsened Dynamics,2023
+FineMoGen: Fine-Grained Spatio-Temporal Motion Generation and Editing,2023
+Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion,2023
+EgoDistill: Egocentric Head Motion Distillation for Efficient Video Understanding,2023
+QuACK: Accelerating Gradient-Based Quantum Optimization with Koopman Operator Learning,2023
+SUBP: Soft Uniform Block Pruning for 1$\times$N Sparse CNNs Multithreading Acceleration,2023
+Unifying GANs and Score-Based Diffusion as Generative Particle Models,2023
+First Order Methods with Markovian Noise: from Acceleration to Variational Inequalities,2023
+Provably Fast Finite Particle Variants of SVGD via Virtual Particle Stochastic Approximation,2023
+Quantum speedups for stochastic optimization,2023
+Zero-sum Polymatrix Markov Games: Equilibrium Collapse and Efficient Computation of Nash Equilibria,2023
+Payoff-based Learning with Matrix Multiplicative Weights in Quantum Games,2023
+"On quantum backpropagation, information reuse, and cheating measurement collapse",2023
+Contrastive Lift: 3D Object Instance Segmentation by Slow-Fast Contrastive Fusion,2023
+Enhancing Motion Deblurring in High-Speed Scenes with Spike Streams,2023
+MotionGPT: Human Motion as a Foreign Language,2023
+Real-Time Motion Prediction via Heterogeneous Polyline Transformer with Relative Pose Encoding,2023
+Public Opinion Field Effect Fusion in Representation Learning for Trending Topics Diffusion,2023
+Topological Parallax: A Geometric Specification for Deep Perception Models,2023
+Quantum Bayesian Optimization,2023
+GraphMP: Graph Neural Network-based Motion Planning with Efficient Graph Search,2023
+Two Sides of The Same Coin: Bridging Deep Equilibrium Models and Neural ODEs via Homotopy Continuation,2023
+Wide Neural Networks as Gaussian Processes: Lessons from Deep Equilibrium Models,2023
+GEQ: Gaussian Kernel Inspired Equilibrium Models,2023
+One-Step Diffusion Distillation via Deep Equilibrium Models,2023
+QH9: A Quantum Hamiltonian Prediction Benchmark for QM9 Molecules,2023
+LART: Neural Correspondence Learning with Latent Regularization Transformer for 3D Motion Transfer,2023
+Learning Motion Refinement for Unsupervised Face Animation,2023
+Self-Supervised Motion Magnification by Backpropagating Through Optical Flow,2023
+Social Motion Prediction with Cognitive Hierarchies,2023
+Flow-Based Feature Fusion for Vehicle-Infrastructure Cooperative 3D Object Detection,2023
+Wasserstein Quantum Monte Carlo: A Novel Approach for Solving the Quantum Many-Body Schrödinger Equation,2023
+Continuous-time Analysis of Anchor Acceleration,2023
+Particle-based Variational Inference with Generalized Wasserstein Gradient Flow,2023
+Flexible Attention-Based Multi-Policy Fusion for Efficient Deep Reinforcement Learning,2023
+Similarity-based cooperative equilibrium,2023
+Shape Non-rigid Kinematics (SNK): A Zero-Shot Method for Non-Rigid Shape Matching via Unsupervised Functional Map Regularized Reconstruction,2023
+The Drunkard’s Odometry: Estimating Camera Motion in Deforming Scenes,2023
+Modeling Human Visual Motion Processing with Trainable Motion Energy Sensing and a Self-attention Network,2023
+Act As You Wish: Fine-Grained Control of Motion Diffusion Model with Hierarchical Semantic Graphs,2023
+Temporal Continual Learning with Prior Compensation for Human Motion Prediction,2023
+Humans in Kitchens: A Dataset for Multi-Person Human Motion Forecasting with Scene Context,2023
+Motion-X: A Large-scale 3D Expressive Whole-body Human Motion Dataset,2023
+Intelligent Knee Sleeves: A Real-time Multimodal Dataset for 3D Lower Body Motion Estimation Using Smart Textile,2023
+WITRAN: Water-wave Information Transmission and Recurrent Acceleration Network for Long-range Time Series Forecasting,2023
+Evaluating Graph Neural Networks for Link Prediction: Current Pitfalls and New Benchmarking,2023
+Deep Equilibrium Based Neural Operators for Steady-State PDEs,2023
+Physics-Informed Bayesian Optimization of Variational Quantum Circuits,2023
+ContinuAR: Continuous Autoregression For Infinite-Fidelity Fusion,2023
+Higher-Order Uncoupled Dynamics Do Not Lead to Nash Equilibrium - Except When They Do,2023
+Towards LLM4QPE: Unsupervised Pretraining of Quantum Property Estimation and A Benchmark,2024
+Node2ket: Efficient High-Dimensional Network Embedding in Quantum Hilbert Space,2024
+Fusion Is Not Enough: Single Modal Attacks on Fusion Models for 3D Object Detection,2024
+Transformer Fusion with Optimal Transport,2024
+FLD: Fourier Latent Dynamics for Structured Motion Representation and Learning,2024
+Benign Oscillation of Stochastic Gradient Descent with Large Learning Rate,2024
+Don't Judge by the Look: Towards Motion Coherent Video Representation,2024
+Neural Polynomial Gabor Fields for Macro Motion Analysis,2024
+GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors,2024
+OmniControl: Control Any Joint at Any Time for Human Motion Generation,2024
+Neural Auto-designer for Enhanced Quantum Kernels,2024
+Input-gradient space particle inference for neural network ensembles,2024
+Near-Optimal Quantum Algorithm for Minimizing the Maximal Loss,2024
+Motion Guidance: Diffusion-Based Image Editing with Differentiable Motion Estimators,2024
+NeRM: Learning Neural Representations for High-Framerate Human Motion Synthesis,2024
+Accelerated Sampling with Stacked Restricted Boltzmann Machines,2024
+The Consensus Game: Language Model Generation via Equilibrium Search,2024
+ReFusion: Improving Natural Language Understanding with Computation-Efficient Retrieval Representation Fusion,2024
+Generative Adversarial Equilibrium Solvers,2024
+Topological data analysis on noisy quantum computers,2024
+MovingParts: Motion-based 3D Part Discovery in Dynamic Radiance Field,2024
+Curriculum reinforcement learning for quantum architecture search under hardware errors,2024
+Improving equilibrium propagation without weight symmetry through Jacobian homeostasis,2024
+Adaptive Window Pruning for Efficient Local Motion Deblurring,2024
+Universal Humanoid Motion Representations for Physics-Based Control,2024
+TapMo: Shape-aware Motion Generation of Skeleton-free Characters,2024
+CrossLoco: Human Motion Driven Control of Legged Robots via Guided Unsupervised Reinforcement Learning,2024
+Single Motion Diffusion,2024
+SEPT: Towards Efficient Scene Representation Learning for Motion Prediction,2024
+Efficient Score Matching with Deep Equilibrium Layers,2024
+Knowledge Fusion of Large Language Models,2024
+Rethinking the symmetry-preserving circuits for constrained variational quantum algorithms,2024
+Human Motion Diffusion as a Generative Prior,2024
+Learning 3D Particle-based Simulators from RGB-D Videos,2024
+Parameter-Efficient Multi-Task Model Fusion with Partial Linearization,2024
+Fast Equilibrium of SGD in Generic Situations,2024
+Energy-conserving equivariant GNN for elasticity of lattice architected metamaterials,2024
+Generative Human Motion Stylization in Latent Space,2024
+Particle Guidance: non-I.I.D. Diverse Sampling with Diffusion Models,2024
+Efficient Video Diffusion Models via Content-Frame Motion-Latent Decomposition,2024
+Adaptive Observation Cost Control for Variational Quantum Eigensolvers,2024
+Potential Based Diffusion Motion Planning,2024
+Nesting Particle Filters for Experimental Design in Dynamical Systems,2024
+Medusa: Simple LLM Inference Acceleration Framework with Multiple Decoding Heads,2024
+Quantum Implicit Neural Representations,2024
+Positive Concave Deep Equilibrium Models,2024
+SSL4Q: Semi-Supervised Learning of Quantum Data with Application to Quantum State Classification,2024
+GeminiFusion: Efficient Pixel-wise Multimodal Fusion for Vision Transformer,2024
+Batch Singular Value Polarization and Weighted Semantic Augmentation for Universal Domain Adaptation,2024
+Predictive Dynamic Fusion,2024
+Momentum Particle Maximum Likelihood,2024
+HumanTOMATO: Text-aligned Whole-body Motion Generation,2024
+Identification and Estimation for Nonignorable Missing Data: A Data Fusion Approach,2024
+Quantum Algorithms and Lower Bounds for Finite-Sum Optimization,2024
+Block Acceleration Without Momentum: On Optimal Stepsizes of Block Gradient Descent for Least-Squares,2024
+Minimally Modifying a Markov Game to Achieve Any Nash Equilibrium and Value,2024
+PASOA- PArticle baSed Bayesian Optimal Adaptive design,2024
+Sparsest Models Elude Pruning: An Exposé of Pruning’s Current Capabilities,2024
+Bringing Motion Taxonomies to Continuous Domains via GPLVM on Hyperbolic manifolds,2024
+Gibbs Sampling of Continuous Potentials on a Quantum Computer,2024
+Stochastic Quantum Sampling for Non-Logconcave Distributions and Estimating Partition Functions,2024
+Prototypical Transformer As Unified Motion Learners,2024
+Measuring Stochastic Data Complexity with Boltzmann Influence Functions,2024
+Provably Efficient Exploration in Quantum Reinforcement Learning with Logarithmic Worst-Case Regret,2024
+FreeBind: Free Lunch in Unified Multimodal Space via Knowledge Fusion,2024
+Diversified Batch Selection for Training Acceleration,2024
+Quantum Theory and Application of Contextual Optimal Transport,2024
+Towards Efficient Spiking Transformer: a Token Sparsification Framework for Training and Inference Acceleration,2024
+Dissecting Multimodality in VideoQA Transformer Models by Impairing Modality Fusion,2024
+Optimal Acceleration for Minimax and Fixed-Point Problems is Not Unique,2024
+Iterated Denoising Energy Matching for Sampling from Boltzmann Densities,2024
+Deep Fusion: Efficient Network Training via Pre-trained Initializations,2024
+"Two Fists, One Heart: Multi-Objective Optimization Based Strategy Fusion for Long-tailed Learning",2024
+Position: Opportunities Exist for Machine Learning in Magnetic Fusion Energy,2024
+Quantum Positional Encodings for Graph Neural Networks,2024
+Path-Guided Particle-based Sampling,2024
+Equilibrium of Data Markets with Externality,2024
+CHEMREASONER: Heuristic Search over a Large Language Model’s Knowledge Space using Quantum-Chemical Feedback,2024
+Quantum Algorithm for Online Exp-concave Optimization,2024
+Privacy-Preserving Data Release Leveraging Optimal Transport and Particle Gradient Descent,2024
+Subhomogeneous Deep Equilibrium Models,2024
+Learning Scale-Aware Spatio-temporal Implicit Representation for Event-based Motion Deblurring,2024
+Rotational Equilibrium: How Weight Decay Balances Learning Across Neural Networks,2024
+Bootstrapping Fisher Market Equilibrium and First-Price Pacing Equilibrium,2024
+Particle Denoising Diffusion Sampler,2024
+Practical Hamiltonian Monte Carlo on Riemannian Manifolds via Relativity Theory,2024
+Pricing with Contextual Elasticity and Heteroscedastic Valuation,2024
+Auctionformer: A Unified Deep Learning Algorithm for Solving Equilibrium Strategies in Auction Games,2024
+NeWRF: A Deep Learning Framework for Wireless Radiation Field Reconstruction and Channel Prediction,2024
+Deep Equilibrium Models are Almost Equivalent to Not-so-deep Explicit Models for High-dimensional Gaussian Mixtures,2024
+QBMK: Quantum-based Matching Kernels for Un-attributed Graphs,2024
+Image Fusion via Vision-Language Model,2024
+AlterMOMA: Fusion Redundancy Pruning for Camera-LiDAR Fusion Models with Alternative Modality Masking,2024
+SfPUEL: Shape from Polarization under Unknown Environment Light,2024
+Fourier-enhanced Implicit Neural Fusion Network for Multispectral and Hyperspectral Image Fusion,2024
+Text-DiFuse: An Interactive Multi-Modal Image Fusion Framework based on Text-modulated Diffusion Model,2024
+Speculative Decoding with CTC-based Draft Model for LLM Inference Acceleration,2024
+Suitable is the Best: Task-Oriented Knowledge Fusion in Vulnerability Detection,2024
+"M$^3$GPT: An Advanced Multimodal, Multitask Framework  for Motion Comprehension and Generation",2024
+Semi-Open 3D Object Retrieval via Hierarchical Equilibrium on Hypergraph,2024
+DeltaDEQ: Exploiting Heterogeneous Convergence for Accelerating Deep Equilibrium Iterations,2024
+Non-asymptotic Approximation Error Bounds of Parameterized Quantum Circuits,2024
+SimVG: A Simple Framework for Visual Grounding with Decoupled Multi-modal Fusion,2024
+HEALNet: Multimodal Fusion for Heterogeneous Biomedical Data,2024
+MotionGS: Exploring Explicit Motion Guidance for Deformable 3D Gaussian Splatting,2024
+Text to Blind Motion,2024
+MoMu-Diffusion: On Learning Long-Term Motion-Music Synchronization and Correspondence,2024
+Quantum algorithm for large-scale market equilibrium computation,2024
+MotionTTT: 2D Test-Time-Training Motion Estimation for 3D Motion Corrected MRI,2024
+QVAE-Mole: The Quantum VAE with Spherical Latent Variable Learning for 3-D Molecule Generation,2024
+VeXKD: The Versatile Integration of Cross-Modal Fusion and Knowledge Distillation for 3D Perception,2024
+Statistical Estimation in the Spiked Tensor Model via the Quantum Approximate Optimization Algorithm,2024
+Motion Graph Unleashed: A Novel Approach to Video Prediction,2024
+Certified Robustness for Deep Equilibrium Models via Serialized Random Smoothing,2024
+Active learning of neural population dynamics using two-photon holographic optogenetics,2024
+MotionBooth: Motion-Aware Customized Text-to-Video Generation,2024
+Coupled Mamba: Enhanced Multimodal Fusion with Coupled State Space Model,2024
+A Motion-aware Spatio-temporal Graph for Video Salient Object Ranking,2024
+Differentiable Quantum Computing for Large-scale Linear Control,2024
+Association Pattern-aware Fusion for Biological Entity Relationship Prediction,2024
+Motion Consistency Model: Accelerating Video Diffusion with Disentangled Motion-Appearance Distillation,2024
+Model Fusion through Bayesian Optimization in Language Model Fine-Tuning,2024
+Constant Acceleration Flow,2024
+Nuclear Fusion Diamond Polishing Dataset,2024
+CigTime: Corrective Instruction Generation Through Inverse Motion Editing,2024
+Are nuclear masks all you need for improved out-of-domain generalisation? A closer look at cancer classification in histopathology,2024
+DHA: Learning Decoupled-Head Attention from Transformer Checkpoints via Adaptive Heads Fusion,2024
+The motion planning neural circuit in goal-directed navigation as Lie group operator search,2024
+Separation and Bias of Deep Equilibrium Models on Expressivity and Learning Dynamics,2024
+Video Diffusion Models are Training-free Motion Interpreter and Controller,2024
+AirSketch: Generative Motion to Sketch,2024
+End-to-End Video Semantic Segmentation in Adverse Weather using Fusion Blocks and Temporal-Spatial Teacher-Student Learning,2024
+FuseFL: One-Shot Federated Learning through the Lens of Causality with Progressive Model Fusion,2024
+Integrating GNN and Neural ODEs for Estimating Non-Reciprocal Two-Body Interactions in Mixed-Species Collective Motion,2024
+Conditional Controllable Image Fusion,2024
+SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction,2024
+DEL: Discrete Element Learner for Learning 3D Particle Dynamics with Neural Rendering,2024
+Nesterov acceleration despite very noisy gradients,2024
+Muscles in Time: Learning to Understand Human Motion In-Depth by Simulating Muscle Activations,2024
+FuseMoE: Mixture-of-Experts Transformers for Fleximodal Fusion,2024
+bit2bit: 1-bit quanta video reconstruction via self-supervised photon prediction,2024
+MoGenTS: Motion Generation based on Spatial-Temporal Joint Modeling,2024
+Provable Acceleration of Nesterov's Accelerated Gradient for Asymmetric Matrix Factorization and Linear Neural Networks,2024
+Understanding Representation of Deep Equilibrium Models from Neural Collapse Perspective,2024
+Accelerating Nash Equilibrium Convergence in Monte Carlo Settings Through Counterfactual Value Based Fictitious Play,2024
+NeuralFuse: Learning to Recover the Accuracy of Access-Limited Neural Network Inference in Low-Voltage Regimes,2024
+ReVideo: Remake a Video with Motion and Content Control,2024
+Bias in Motion: Theoretical Insights into the Dynamics of Bias in SGD Training,2024
+HiCoM: Hierarchical Coherent Motion for Dynamic Streamable Scenes with 3D Gaussian Splatting,2024
+"CRT-Fusion: Camera, Radar, Temporal Fusion Using  Motion Information  for 3D Object Detection",2024
+Exponential Quantum Communication Advantage in Distributed Inference and Learning,2024
+Counter-Current Learning: A Biologically Plausible Dual Network Approach for Deep Learning,2024
+Deep Equilibrium Algorithmic Reasoning,2024
+Quantum Deep Equilibrium Models,2024
+Test-Time Dynamic Image Fusion,2024
+Reconstructing the Image Stitching Pipeline: Integrating Fusion and Rectangling into a Unified Inpainting Model,2024
+Team-Fictitious Play for Reaching Team-Nash Equilibrium in Multi-team Games,2024
+UniMTS: Unified Pre-training for Motion Time Series,2024
+Learning Cooperative Trajectory Representations for Motion Forecasting,2024
+Quadratic Quantum Variational Monte Carlo,2024
+E2E-MFD: Towards End-to-End Synchronous Multimodal Fusion Detection,2024
+Open LLMs are Necessary for Current Private Adaptations and Outperform their Closed Alternatives,2024
+Paths to Equilibrium in Games,2024
+Addressing Asynchronicity in Clinical Multimodal Fusion via Individualized Chest X-ray Generation,2024
+Infusing Self-Consistency into Density Functional Theory Hamiltonian Prediction via Deep Equilibrium Models,2024
+ReMAP: Neural Model Reprogramming with Network Inversion and Retrieval-Augmented Mapping for Adaptive Motion Forecasting,2024
+Parameter Symmetry and Noise Equilibrium of Stochastic Gradient Descent,2024
+"Universality of AdaGrad Stepsizes for Stochastic Optimization: Inexact Oracle, Acceleration and Variance Reduction",2024
+Revisiting motion information for RGB-Event tracking with MOT philosophy,2024
+Object segmentation from common fate: Motion energy processing enables human-like zero-shot generalization to random dot stimuli,2024
+Quantum Algorithms for Non-smooth Non-convex Optimization,2024
+Fair Bilevel Neural Network (FairBiNN): On Balancing fairness and accuracy via Stackelberg Equilibrium,2024
+Generalizable Implicit Motion Modeling for Video Frame Interpolation,2024
+On Giant's Shoulders: Effortless Weak to Strong by Dynamic Logits Fusion,2024
+Rethinking the Power of Timestamps for Robust Time Series Forecasting: A Global-Local Fusion Perspective,2024
+Bidirectional Recurrence for Cardiac Motion Tracking with Gaussian Process Latent Coding,2024
+E2ENet: Dynamic Sparse Feature Fusion for Accurate and Efficient 3D Medical Image Segmentation,2024
+Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception,2024
+Learning Superconductivity from Ordered and Disordered Material Structures,2024
+Optimal-state Dynamics Estimation for Physics-based Human Motion Capture from Videos,2024
+Differentiable Modal Synthesis for Physical Modeling of Planar String Sound and Motion Simulation,2024
+GL-NeRF: Gauss-Laguerre Quadrature Enables Training-Free NeRF Acceleration,2024
+Particle Semi-Implicit Variational Inference,2024
+Enhancing Motion in Text-to-Video Generation with Decomposed Encoding and Conditioning,2024
+SOFTS: Efficient Multivariate Time Series Forecasting with Series-Core Fusion,2024
+User-Creator Feature Polarization in Recommender Systems with Dual Influence,2024
+TrackIME: Enhanced Video Point Tracking via Instance Motion Estimation,2024
+Skinned Motion Retargeting with Dense Geometric Interaction Perception,2024
+ACFun: Abstract-Concrete Fusion Facial Stylization,2024
+Optimizing over Multiple Distributions under Generalized Quasar-Convexity Condition,2024
+Improved Particle Approximation Error for Mean Field Neural Networks,2024
+E-Motion: Future Motion Simulation via Event Sequence Diffusion,2024
+QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation,2024
+Acceleration Exists! Optimization Problems When Oracle Can Only Compare Objective Function Values,2024
+Nuclear Norm Regularization for Deep Learning,2024
+DeMo: Decoupling Motion Forecasting into  Directional Intentions and Dynamic States,2024
+EgoSim: An Egocentric Multi-view Simulator and Real Dataset for Body-worn Cameras during Motion and Activity,2024
+$\nabla^2$DFT: A Universal Quantum Chemistry Dataset of Drug-Like Molecules and a Benchmark for Neural Network Potentials,2024
+Learning to be Smooth: An End-to-End Differentiable Particle Smoother,2024
+Motion Forecasting in Continuous Driving,2024
+What is my quantum computer good for? Quantum capability learning with physics-aware neural networks,2024
+Self-Distilled Depth Refinement with Noisy Poisson Fusion,2024
+Dual-frame Fluid Motion Estimation with Test-time Optimization and Zero-divergence Loss,2024
+Transferable Boltzmann Generators,2024
+DapperFL: Domain Adaptive Federated Learning with Model Fusion Pruning for Edge Devices,2024
+Harmonizing Stochasticity and Determinism: Scene-responsive Diverse Human Motion Prediction,2024

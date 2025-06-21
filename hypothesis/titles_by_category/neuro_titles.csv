@@ -1,0 +1,177 @@
+Title,Year
+Functional Gradient Boosting based on Residual Network Perception,2018
+Learning a latent manifold of odor representations from neural responses in piriform cortex,2018
+Incorporating Context into Language Encoding Models for fMRI,2018
+A Unified Theory of Early Visual Representations from Retina to Cortex through Anatomically Constrained Deep CNNs,2019
+A rotation-equivariant convolutional neural network model of primary visual cortex,2019
+Rethinking Lossy Compression: The Rate-Distortion-Perception Tradeoff,2019
+A Personalized Affective Memory Model for Improving Emotion Recognition,2019
+Unsupervised Learning of Object Keypoints for Perception and Control,2019
+A state-space model for inferring effective connectivity of latent neural dynamics from simultaneous EEG/fMRI,2019
+Manifold-regression to predict from MEG/EEG brain signals without source modeling,2019
+From voxels to pixels and back: Self-supervision in natural-image reconstruction from fMRI,2019
+Connective Cognition Network for Directional Visual Commonsense Reasoning,2019
+Approximate Bayesian Inference for a Mechanistic Model of Vesicle Release at a Ribbon Synapse,2019
+Comparison Against Task Driven Artificial Neural Networks Reveals Functional Organization of Mouse Visual Cortex,2019
+Nonlinear scaling of resource allocation in sensory bottlenecks,2019
+On The Classification-Distortion-Perception Tradeoff,2019
+"Closed Loop Neural-Symbolic Learning via Integrating Neural Perception, Grammar Parsing, and Symbolic Reasoning",2020
+Task-Oriented Active Perception and Planning in Environments with Partially Known Semantics,2020
+Simulating a Primary Visual Cortex at the Front of CNNs Improves Robustness to Image Perturbations,2020
+One Ring to Rule Them All: Certifiably Robust Geometric Perception with Outliers,2020
+Statistical control for spatio-temporal MEG/EEG source imaging with desparsified mutli-task Lasso,2020
+Multi-agent active perception with prediction rewards,2020
+Texture Interpolation for Probing Visual Perception,2020
+Neural Topographic Factor Analysis for fMRI Data,2020
+A simple normative network approximates local non-Hebbian learning in the cortex,2020
+Uncovering the Topology of Time-Varying fMRI Data using Cubical Persistence,2020
+Interpretable multi-timescale models for predicting fMRI responses to continuous natural speech,2020
+Shared Space Transfer Learning for analyzing multi-site fMRI data,2020
+Modeling Task Effects on Meaning Representation in the Brain via Zero-Shot MEG Prediction,2020
+High-contrast “gaudy” images improve the training of deep neural network models of visual cortex,2020
+Representation learning for improved interpretability and classification accuracy of clinical factors from EEG,2021
+Generalization in data-driven models of primary visual cortex,2021
+Watch-And-Help: A Challenge for Social Perception and Human-AI Collaboration,2021
+Perceiver: General Perception with Iterative Attention,2021
+A Receptor Skeleton for Capsule Neural Networks,2021
+Dichotomous Optimistic Search to Quantify Human Perception,2021
+Online Learning and Control of Complex Dynamical Systems from Sensory Input,2021
+3DP3: 3D Scene Perception via Probabilistic Programming,2021
+Learning Robust Hierarchical Patterns of Human Brain across Many fMRI Studies,2021
+Towards Optimal Strategies for Training Self-Driving Perception Models in Simulation,2021
+A Theory of the Distortion-Perception Tradeoff in Wasserstein Space,2021
+Neural Population Geometry Reveals the Role of Stochasticity in Robust Perception,2021
+Can fMRI reveal the representation of syntactic structure in the brain?,2021
+Learning Distilled Collaboration Graph for Multi-Agent Perception,2021
+"Neural Regression, Representational Similarity, Model Zoology & Neural Taskonomy at Scale in Rodent Visual Cortex",2021
+Deep Markov Factor Analysis: Towards Concurrent Temporal and Spatial Analysis of fMRI Data,2021
+A Consciousness-Inspired Planning Agent for Model-Based Reinforcement Learning,2021
+Explaining heterogeneity in medial entorhinal cortex with task-driven neural networks,2021
+Towards robust vision by multi-task learning on monkey visual cortex,2021
+Reinforcement Learning based Disease Progression Model for Alzheimer’s Disease,2021
+Increasing Liquid State Machine Performance with Edge-of-Chaos Dynamics Organized by Astrocyte-modulated Plasticity,2021
+The Sensory Neuron as a Transformer: Permutation-Invariant Neural Networks for Reinforcement Learning,2021
+Universal Rate-Distortion-Perception Representations for Lossy Compression,2021
+The functional specialization of visual cortex emerges from training parallel pathways with self-supervised predictive learning,2021
+Towards Better Understanding and Better Generalization of Low-shot Classification in Histology Images with Contrastive Learning,2022
+Hindsight is 20/20: Leveraging Past Traversals to Aid 3D Perception,2022
+CADDA: Class-wise Automatic Differentiable Data Augmentation for EEG Signals,2022
+DriPP: Driven Point Processes to Model Stimuli Induced Patterns in M/EEG Signals,2022
+Ripple Attention for Visual Perception with Sub-quadratic Complexity,2022
+Where2comm: Communication-Efficient Collaborative Perception via Spatial Confidence Maps,2022
+Evaluating Latent Space Robustness and Uncertainty of EEG-ML Models under Realistic Distribution Shifts,2022
+Private Multiparty Perception for Navigation,2022
+PALMER: Perception - Action Loop with Memory for Long-Horizon Planning,2022
+MAtt: A Manifold Attention Network for EEG Decoding,2022
+Risk-Driven Design of Perception Systems,2022
+Hybrid Neural Autoencoders for Stimulus Encoding in Visual and Other Sensory Neuroprostheses,2022
+OpenSRH: optimizing brain tumor surgery using intraoperative stimulated Raman histology,2022
+Prune and distill: similar reformatting of image information along rat visual cortex and deep neural networks,2022
+SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG,2022
+PeRFception: Perception using Radiance Fields,2022
+Action-modulated midbrain dopamine activity arises from distributed control policies,2022
+"A Minimalist Dataset for Systematic Generalization of Perception, Syntax, and Semantics",2023
+LiftedCL: Lifting Contrastive Learning for Human-Centric Perception,2023
+Thalamus: a brain-inspired algorithm for biologically-plausible continual learning and disentangled representations,2023
+Aligning Model and Macaque Inferior Temporal Cortex Representations Improves Model-to-Human Behavioral Alignment and Adversarial Robustness,2023
+Matching receptor to odorant with protein language and graph neural networks,2023
+Associative Memory Augmented Asynchronous Spatiotemporal Representation Learning for Event-based Perception,2023
+Functional Neural Networks: Shift invariant models for functional data with applications to EEG classification,2023
+Transcendental Idealism of Planner: Evaluating Perception from Planning Perspective for Autonomous Driving,2023
+Sliced-Wasserstein on Symmetric Positive Definite Matrices for M/EEG Signals,2023
+"From Perception to Programs: Regularize, Overparameterize, and Amortize",2023
+Robust Perception through Equivariance,2023
+Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering,2023
+Bayesian target optimisation for high-precision holographic optogenetics,2023
+SwiFT: Swin 4D fMRI Transformer,2023
+Learning Topology-Agnostic EEG Representations with Geometry-Aware Modeling,2023
+HAP: Structure-Aware Masked Image Modeling for Human-Centric Perception,2023
+Degraded Polygons Raise Fundamental Questions of Neural Network Perception,2023
+HotBEV: Hardware-oriented Transformer-based Multi-View 3D Detector for BEV Perception,2023
+Adaptive Contextual Perception: How To Generalize To New Backgrounds and Ambiguous Objects,2023
+Incomplete Multimodality-Diffused Emotion Recognition,2023
+DeWave: Discrete Encoding of EEG Waves for EEG to Text Translation,2023
+Scaling laws for language encoding models in fMRI,2023
+Where are we in the search for an Artificial Visual Cortex for Embodied Intelligence?,2023
+DatasetDM: Synthesizing Data with Perception Annotations Using Diffusion Models,2023
+How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception,2023
+Chanakya: Learning Runtime Decisions for Adaptive Real-Time Perception,2023
+Diversifying Spatial-Temporal Perception for Video Domain Generalization,2023
+Performance-optimized deep neural networks are evolving into worse models of inferotemporal visual cortex,2023
+Asynchrony-Robust Collaborative Perception via Bird's Eye View Flow,2023
+Topological Parallax: A Geometric Specification for Deep Perception Models,2023
+Privacy Assessment on Reconstructed Images: Are Existing Evaluation Metrics Faithful to Human Perception?,2023
+Language Is Not All You Need: Aligning Perception with Language Models,2023
+PromptRestorer: A Prompting Image Restoration Method with Degradation Perception,2023
+Spatially Resolved Gene Expression Prediction from Histology Images via Bi-modal Contrastive Learning,2023
+Response Length Perception and  Sequence Scheduling: An LLM-Empowered LLM Inference Pipeline,2023
+Alleviating the Semantic Gap for Generalized fMRI-to-Image Reconstruction,2023
+Reconstructing the Mind's Eye: fMRI-to-Image with Contrastive Learning and Diffusion Priors,2023
+Brain Dissection: fMRI-trained Networks Reveal Spatial Selectivity in the Processing of Natural Images,2023
+On the choice of Perception Loss Function for Learned Video Compression,2023
+Convolutional Visual Prompt for Robust Visual Perception,2023
+Seeing is not always believing: Benchmarking Human and Model Perception of AI-Generated Images,2023
+Perception Test: A Diagnostic Benchmark for Multimodal Video Models,2023
+YouTubePD: A Multimodal Benchmark for Parkinson’s Disease Analysis,2023
+Alternating Gradient Descent and Mixture-of-Experts for Integrated Multimodal Perception,2023
+VisAlign: Dataset for Measuring the Alignment between AI and Humans in Visual Perception,2023
+VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition,2024
+CALICO: Self-Supervised Camera-LiDAR Contrastive Pre-training for BEV Perception,2024
+BrainSCUBA: Fine-Grained Natural Language Captions of Visual Cortex Selectivity,2024
+LaneSegNet: Map Learning with Lane Segment Perception for Autonomous Driving,2024
+Perceptual Group Tokenizer: Building Perception with Iterative Grouping,2024
+Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds,2024
+Synapse: Trajectory-as-Exemplar Prompting with Memory for Computer Control,2024
+Large Brain Model for Learning Generic Representations with Tremendous EEG Data in BCI,2024
+Brain decoding: toward real-time reconstruction of visual perception,2024
+COCO-Periph: Bridging the Gap Between Human and Machine Perception in the Periphery,2024
+Consciousness-Inspired Spatio-Temporal Abstractions for Better Generalization in Reinforcement Learning,2024
+An Extensible Framework for Open Heterogeneous Collaborative Perception,2024
+Neuro-Inspired Information-Theoretic Hierarchical Perception for Multimodal Learning,2024
+Decoding Natural Images from EEG for Object Recognition,2024
+Exploring the LLM Journey from Cognition to Expression with Linear Representations,2024
+Video-of-Thought: Step-by-Step Video Reasoning from Perception to Cognition,2024
+The Perception-Robustness Tradeoff in Deterministic Image Restoration,2024
+How Learning by Reconstruction Produces Uninformative Features For Perception,2024
+RoboMP$^2$: A Robotic Multimodal Perception-Planning Framework with Multimodal Large Language Models,2024
+PerceptAnon: Exploring the Human Perception of Image Anonymization Beyond Pseudonymization for GDPR,2024
+REST: Efficient and Accelerated EEG Seizure Analysis through Residual State Updates,2024
+Vector Quantization Pretraining for EEG Time Series with Random Projection and Phase Alignment,2024
+MindEye2: Shared-Subject Models Enable fMRI-To-Image With 1 Hour of Data,2024
+EEGPT: Pretrained Transformer for Universal and Reliable Representation of EEG Signals,2024
+Perception of Knowledge Boundary for Large Language Models through Semi-open-ended Question Answering,2024
+HEST-1k: A Dataset For Spatial Transcriptomics and Histology Image Analysis,2024
+VeXKD: The Versatile Integration of Cross-Modal Fusion and Knowledge Distillation for 3D Perception,2024
+Active learning of neural population dynamics using two-photon holographic optogenetics,2024
+Visual Perception by Large Language Model’s Weights,2024
+Asynchronous Perception Machine for Efficient  Test Time Training,2024
+NeuroClips: Towards High-fidelity and Smooth fMRI-to-Video Reconstruction,2024
+FindingEmo: An Image Dataset for Emotion Recognition in the Wild,2024
+Enhancing LLM’s Cognition via Structurization,2024
+Reproducibility of predictive networks for mouse visual cortex,2024
+Active Perception for Grasp Detection via Neural Graspness Field,2024
+EEVR: A Dataset of Paired Physiological Signals and Textual Descriptions for Joint Emotion Representation Learning,2024
+Emotion-LLaMA: Multimodal Emotion Recognition and Reasoning with Instruction Tuning,2024
+UAV3D: A Large-scale 3D Perception Benchmark for Unmanned Aerial Vehicles,2024
+RETR: Multi-View Radar Detection Transformer for Indoor Perception,2024
+RCDN: Towards Robust Camera-Insensitivity Collaborative Perception via Dynamic Feature-based 3D Neural Modeling,2024
+Flexible Context-Driven Sensory Processing in Dynamical Vision Models,2024
+Neural decoding from stereotactic EEG: accounting for electrode variability across subjects,2024
+Long-Range Feedback Spiking Network Captures Dynamic and Static Representations of the Visual Cortex under Movie Stimuli,2024
+Real-time Stereo-based 3D Object Detection for Streaming Perception,2024
+Flow Snapshot Neurons in Action: Deep Neural Networks Generalize to Biological Motion Perception,2024
+Visual Decoding and Reconstruction via EEG Embeddings with Guided Diffusion,2024
+fMRI predictors based on language models of increasing complexity recover brain left lateralization,2024
+Retrospective for the Dynamic Sensorium Competition for predicting large-scale mouse primary visual cortex activity from videos,2024
+Benchmarking Out-of-Distribution Generalization Capabilities of DNN-based Encoding Models for the Ventral Visual Cortex.,2024
+To Err Like Human: Affective Bias-Inspired Measures for Visual Emotion Recognition Evaluation,2024
+Skinned Motion Retargeting with Dense Geometric Interaction Perception,2024
+Time Makes Space: Emergence of Place Fields in Networks Encoding Temporally Continuous Sensory Experiences,2024
+DenseFusion-1M: Merging Vision Experts for Comprehensive Multimodal Perception,2024
+Geodesic Optimization for Predictive Shift Adaptation on EEG data,2024
+ZOPP: A Framework of Zero-shot Offboard Panoptic Perception for Autonomous Driving,2024
+Towards Flexible 3D Perception: Object-Centric Occupancy Completion Augments 3D Object Detection,2024
+$E^3$: Exploring Embodied Emotion Through A Large-Scale Egocentric Video Dataset,2024
+NeuroBOLT: Resting-state EEG-to-fMRI Synthesis with Multi-dimensional Feature Mapping,2024
+EEG2Video: Towards Decoding Dynamic Visual Perception from EEG Signals,2024
+Beyond the Doors of Perception: Vision Transformers Represent Relations Between Objects,2024

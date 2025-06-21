@@ -1,0 +1,677 @@
+Title,Year
+Online Learning Rate Adaptation with Hypergradient Descent,2018
+A DIRT-T Approach to Unsupervised Domain Adaptation,2018
+Memory-based Parameter Adaptation,2018
+Continuous Adaptation via Meta-Learning in Nonstationary and Competitive Environments,2018
+Self-ensembling for visual domain adaptation,2018
+Minimal-Entropy Correlation Alignment for Unsupervised Deep Domain Adaptation,2018
+An image representation based convolutional network for DNA classification,2018
+Implicit Causal Models for Genome-wide Association Studies,2018
+Structured Evolution with Compact Architectures for Scalable Policy Optimization,2018
+Rapid Adaptation with Conditionally Shifted Neurons,2018
+Learning Semantic Representations for Unsupervised Domain Adaptation,2018
+CyCADA: Cycle-Consistent Adversarial Domain Adaptation,2018
+Conditional Adversarial Domain Adaptation,2018
+L4: Practical loss-based stepsize adaptation for deep learning,2018
+Adversarial Multiple Source Domain Adaptation,2018
+Co-regularized Alignment for Unsupervised Domain Adaptation,2018
+Generative modeling for protein structures,2018
+The Global Anchor Method for Quantifying Linguistic Shifts and Domain Adaptation,2018
+"Revisiting $(\epsilon, \gamma, \tau)$-similarity learning for domain adaptation",2018
+Algorithms and Theory for Multiple-Source Adaptation,2018
+Synthesize Policies for Transfer and Adaptation across Tasks and Environments,2018
+Recurrent World Models Facilitate Policy Evolution,2018
+The emergence of multiple retinal cell types through efficient coding of natural movies,2018
+Improving Exploration in Evolution Strategies for Deep Reinforcement Learning via a Population of Novelty-Seeking Agents,2018
+Evolution-Guided Policy Gradient in Reinforcement Learning,2018
+Domain Adaptation by Using Causal Inference to Predict Invariant Conditional Distributions,2018
+Efficient Projection onto the Perfect Phylogeny Model,2018
+Preference Based Adaptation for Learning Objectives,2018
+Diverse Ensemble Evolution: Curriculum Data-Model Marriage,2018
+Adaptation to Easy Data in Prediction with Limited Advice,2018
+Human-level Protein Localization with Convolutional Neural Networks,2019
+Adversarial Domain Adaptation for Stable Brain-Machine Interfaces,2019
+Learning Protein Structure with a Differentiable Simulator,2019
+Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation,2019
+Efficient Multi-Objective Neural Architecture Search via Lamarckian Evolution,2019
+Improving the Generalization of Adversarial Training with Domain Adaptation,2019
+Neural Graph Evolution: Automatic Robot Design,2019
+Deep Online Learning Via Meta-Learning: Continual Adaptation for Model-Based RL,2019
+Overcoming Catastrophic Forgetting for Continual Learning via Model Adaptation,2019
+Regularized Learning for  Domain Adaptation under Label Shifts,2019
+Learning protein sequence embeddings using information from structure,2019
+Learning to Design RNA,2019
+Unsupervised Domain Adaptation for Distance Metric Learning,2019
+LEARNING FACTORIZED REPRESENTATIONS FOR OPEN-SET DOMAIN ADAPTATION,2019
+On Learning Invariant Representations for Domain Adaptation,2019
+Breaking Inter-Layer Co-Adaptation by Classifier Anonymization,2019
+Fast Context Adaptation via Meta-Learning,2019
+Transferability vs. Discriminability: Batch Spectral Penalization for Adversarial Domain Adaptation,2019
+BERT and PALs: Projected Attention Layers for Efficient Adaptation in Multi-Task Learning,2019
+Towards Accurate Model Selection in Deep Unsupervised Domain Adaptation,2019
+Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment,2019
+Bridging Theory and Algorithm for Domain Adaptation,2019
+Polynomial Cost of Adaptation for X-Armed Bandits,2019
+Input-Cell Attention Reduces Vanishing Saliency of Recurrent Neural Networks,2019
+Object landmark discovery through unsupervised adaptation,2019
+Category Anchor-Guided Unsupervised Domain Adaptation for Semantic Segmentation,2019
+Multi-source Domain Adaptation for Semantic Segmentation,2019
+A coupled autoencoder approach for multi-modal analysis of cell types,2019
+Scalable inference of topic evolution via models for latent geometric structures,2019
+Connective Cognition Network for Directional Visual Commonsense Reasoning,2019
+A Generalized Algorithm for Multi-Objective Reinforcement Learning and Policy Adaptation,2019
+End-to-End Learning on 3D Protein Structure for Interface Prediction,2019
+Evaluating Protein Transfer Learning with TAPE,2019
+Generative Models for Graph-Based Protein Design,2019
+FormulaZero: Distributionally Robust Online Adaptation via Offline Population Synthesis,2020
+Maximum Likelihood with Bias-Corrected Calibration is Hard-To-Beat at Label Shift Adaptation,2020
+Continuously Indexed Domain Adaptation,2020
+Progressive Graph Learning for Open-Set Domain Adaptation,2020
+Label-Noise Robust Domain Adaptation,2020
+Understanding Self-Training for Gradual Domain Adaptation,2020
+Cautious Adaptation For Reinforcement Learning in Safety-Critical Settings,2020
+Margin-aware Adversarial Domain Adaptation with Optimal Transport,2020
+Fast Adaptation to New Environments via Policy-Dynamics Value Functions,2020
+Control Frequency Adaptation via Action Persistence in Batch Reinforcement Learning,2020
+Provably Efficient Model-based Policy Adaptation,2020
+History-Gradient Aided Batch Size Adaptation for Variance Reduced Algorithms,2020
+Implicit Class-Conditioned Domain Alignment for Unsupervised Domain Adaptation,2020
+Domain Aggregation Networks for Multi-Source Domain Adaptation,2020
+Do We Really Need to Access the Source Data? Source Hypothesis Transfer for Unsupervised Domain Adaptation,2020
+Few-shot Domain Adaptation by Causal Mechanism Transfer,2020
+Improving robustness against common corruptions by covariate shift adaptation,2020
+"Discover, Hallucinate, and Adapt: Open Compound Domain Adaptation for Semantic Segmentation",2020
+Model-based Policy Optimization with Unsupervised Model Adaptation,2020
+Heuristic Domain Adaptation,2020
+Adversarial Style Mining for One-Shot Unsupervised Domain Adaptation,2020
+Domain Adaptation as a Problem of Inference on Graphical Models,2020
+Robust Optimal Transport with Applications in Generative Modeling and Domain Adaptation,2020
+Online Fast Adaptation and Knowledge Accumulation (OSAKA): a New Approach to Continual Learning,2020
+Your Classifier can Secretly Suffice Multi-Source Domain Adaptation,2020
+Universal Domain Adaptation through Self Supervision,2020
+Domain Adaptation with Conditional Distribution Matching and Generalized Label Shift,2020
+Adaptation Properties Allow Identification of Optimized Neural Codes,2020
+Online Adaptation for Consistent Mesh Reconstruction in the Wild,2020
+Transferable Calibration with Lower Bias and Variance in Domain Adaptation,2020
+Convergence of Meta-Learning with Task-Specific Adaptation over Partial Parameters,2020
+Finer Metagenomic Reconstruction via Biodiversity Optimization,2020
+Deep learning versus kernel learning: an empirical study of loss landscape geometry and the time evolution of the Neural Tangent Kernel,2020
+Self-Supervised Policy Adaptation during Deployment,2021
+Intrinsic-Extrinsic Convolution and Pooling for Learning on 3D Protein Structures,2021
+On Fast Adversarial Robustness Adaptation in Model-Agnostic Meta-Learning,2021
+Learning from Protein Structure with Geometric Vector Perceptrons,2021
+VAEBM: A Symbiosis between Variational Autoencoders and Energy-based Models,2021
+Transformer protein language models are unsupervised structure learners,2021
+Tent: Fully Test-Time Adaptation by Entropy Minimization,2021
+Usable Information and Evolution of Optimal Representations During Training,2021
+Task-Agnostic Morphology Evolution,2021
+BERTology Meets Biology: Interpreting Attention in Protein Language Models,2021
+Genetic Soft Updates for Policy Evolution in Deep Reinforcement Learning,2021
+Neural representation and generation for RNA secondary structures,2021
+Molecule Optimization by Explainable Evolution,2021
+Poisson-Randomised DirBN: Large Mutation is Needed in Dirichlet Belief Networks,2021
+Efficient Generative Modelling of Protein Structure Fragments using a Deep Markov Model,2021
+Unbalanced minibatch Optimal Transport; applications to Domain Adaptation,2021
+LAMDA: Label Matching Deep Domain Adaptation,2021
+Sequential Domain Adaptation by Synthesizing Distributionally Robust Experts,2021
+Unbiased Gradient Estimation in Unrolled Computation Graphs with Persistent Evolution Strategies,2021
+Fold2Seq: A Joint Sequence(1D)-Fold(3D) Embedding-based Generative Model for  Protein Design,2021
+Representation Subspace Distance for Domain Adaptation Regression,2021
+A Discriminative Technique for Multiple-Source Adaptation,2021
+KD3A: Unsupervised Multi-Source Decentralized Domain Adaptation via Knowledge Distillation,2021
+Bayesian Structural Adaptation for Continual Learning,2021
+Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation,2021
+Unsupervised Embedding Adaptation via Early-Stage Feature Reconstruction for Few-Shot Classification,2021
+TOHAN: A One-step Approach towards Few-shot Hypothesis Adaptation,2021
+Contrast and Mix: Temporal Contrastive Video Domain Adaptation with Background Mixing,2021
+Model Adaptation: Historical Contrastive Learning for Unsupervised Domain Adaptation without Source Data,2021
+Implicit Task-Driven Probability Discrepancy Measure for Unsupervised Domain Adaptation,2021
+Confident Anchor-Induced Multi-Source Free Domain Adaptation,2021
+Implicit Semantic Response Alignment for Partial Domain Adaptation,2021
+Reverse-Complement Equivariant Networks for DNA Sequences,2021
+The balancing principle for parameter choice in distance-regularized domain adaptation,2021
+Exploiting the Intrinsic Neighborhood Structure for Source-free Domain Adaptation,2021
+Understanding the Limits of Unsupervised Domain Adaptation via Data Poisoning,2021
+Language models enable zero-shot prediction of the effects of mutations on protein function,2021
+Domain Adaptation with Invariant Representation Learning: What Transformations to Learn?,2021
+A Prototype-Oriented Framework for Unsupervised Domain Adaptation,2021
+Gradual Domain Adaptation without Indexed Intermediate Domains,2021
+Co-Adaptation of Algorithmic and Implementational Innovations in Inference-based Deep Reinforcement Learning,2021
+Unsupervised Domain Adaptation with Dynamics-Aware Rewards in Reinforcement Learning,2021
+Pareto Domain Adaptation,2021
+OSOA: One-Shot Online Adaptation of Deep Generative Models for Lossless Compression,2021
+Noisy Adaptation Generates Lévy Flights in Attractor Neural Networks,2021
+Lifelong Domain Adaptation via Consolidated Internal Distribution,2021
+Fine-Grained Zero-Shot Learning with DNA as Side Information,2021
+RoMA: Robust Model Adaptation for Offline Model-based Optimization,2021
+TNASP: A Transformer-based NAS Predictor with a Self-evolution Framework,2021
+Bayesian Adaptation for Covariate Shift,2021
+Habitat 2.0: Training Home Assistants to Rearrange their Habitat,2021
+CLDA: Contrastive Learning for Semi-Supervised Domain Adaptation,2021
+Cross-modal Domain Adaptation for Cost-Efficient Visual Reinforcement Learning,2021
+Cycle Self-Training for Domain Adaptation,2021
+HSVA: Hierarchical Semantic-Visual Adaptation for Zero-Shot Learning,2021
+ToAlign: Task-Oriented Alignment for Unsupervised Domain Adaptation,2021
+Adversarial Reweighting for Partial Domain Adaptation,2021
+Co-evolution Transformer for Protein Contact Prediction,2021
+Knowledge-Adaptation Priors,2021
+Online Adaptation to Label Distribution Shift,2021
+CAM-GAN: Continual Adaptation Modules for Generative Adversarial Networks,2021
+Evolution Gym: A Large-Scale Benchmark for Evolving Soft Robots,2021
+Dynamic COVID risk assessment accounting for community virus exposure from a spatial-temporal transmission model,2021
+Source-Free Adaptation to Measurement Shift via Bottom-Up Feature Restoration,2022
+Learning Transferable Reward for Query Object Localization with Policy Adaptation,2022
+Mind the Gap: Domain Gap Control for Single Shot Domain Adaptation for Generative Adversarial Networks,2022
+Decoupled Adaptation for Cross-Domain Object Detection,2022
+Iterative Refinement Graph Neural Network for Antibody Sequence-Structure Co-design,2022
+Geometric Transformers for Protein Interface Contact Prediction,2022
+Ancestral protein sequence reconstruction using a tree-structured Ornstein-Uhlenbeck variational autoencoder,2022
+The Evolution of Uncertainty of Learning in Games,2022
+Provable Adaptation across Multiway Domains via Representation Learning,2022
+Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking,2022
+Discrepancy-Based Active Learning for Domain Adaptation,2022
+Mapping conditional distributions for domain adaptation under generalized target shift,2022
+Learning a subspace of policies for online adaptation in Reinforcement Learning,2022
+On Redundancy and Diversity in Cell-based Neural Architecture Search,2022
+Graph-Relational Domain Adaptation,2022
+AdaMatch: A Unified Approach to Semi-Supervised Learning and Domain Adaptation,2022
+CDTrans: Cross-domain Transformer for Unsupervised Domain Adaptation,2022
+Reinforcement Learning in Presence of Discrete Markovian Context Evolution,2022
+Learning Discrete Structured Variational Auto-Encoder using Natural Evolution Strategies,2022
+Unraveling Model-Agnostic Meta-Learning via The Adaptation Learning Rate,2022
+Pareto Policy Adaptation,2022
+OntoProtein: Protein Pretraining With Gene Ontology Embedding,2022
+LoRA: Low-Rank Adaptation of Large Language Models,2022
+Extending the WILDS Benchmark for Unsupervised Adaptation,2022
+KL Guided Domain Adaptation,2022
+DNA: Domain Generalization with Diversified Neural Averaging,2022
+StreamingQA: A Benchmark for Adaptation to New Knowledge over Time in Question Answering Models,2022
+Deep Squared Euclidean Approximation to the Levenshtein Distance for DNA Storage,2022
+Marginal Distribution Adaptation for Discrete Sets via Module-Oriented Divergence Minimization,2022
+Improving Task-free Continual Learning by Distributionally Robust Memory Evolution,2022
+Balancing Discriminability and Transferability for Source-Free Domain Adaptation,2022
+Partial disentanglement for domain adaptation,2022
+Confidence Score for Source-Free Unsupervised Domain Adaptation,2022
+Proximal Exploration for Model-guided Protein Sequence Design,2022
+Tranception: Protein Fitness Prediction with Autoregressive Transformers and Inference-time Retrieval,2022
+Pocket2Mol: Efficient Molecular Sampling Based on 3D Protein Pockets,2022
+Robust alignment of cross-session recordings of neural population activity by behaviour via unsupervised domain adaptation,2022
+Generating 3D Molecules for Target Protein Binding,2022
+NISPA: Neuro-Inspired Stability-Plasticity Adaptation for Continual Learning in Sparse Networks,2022
+Minimax Classification under Concept Drift with Multidimensional Adaptation and Performance Guarantees,2022
+Three-stage Evolution and Fast Equilibrium for SGD with Non-degerate Critical Points,2022
+Identifiability Conditions for Domain Adaptation,2022
+"Understanding Gradual Domain Adaptation: Improved Analysis, Optimal Path and Beyond",2022
+Domain Adaptation for Time Series Forecasting via Attention Sharing,2022
+Antibody-Antigen Docking and Design via Hierarchical Structure Refinement,2022
+"Connect, Not Collapse: Explaining Contrastive Learning for Unsupervised Domain Adaptation",2022
+Efficient Test-Time Model Adaptation without Forgetting,2022
+Keypoint-Guided Optimal Transport with Applications in Heterogeneous Domain Adaptation,2022
+LOG: Active Model Adaptation for Label-Efficient OOD Generalization,2022
+[Re] Learning Unknown from Correlations: Graph Neural Network for Inter-novel-protein Interaction Prediction,2022
+Revisiting Realistic Test-Time Training: Sequential Inference and Adaptation by Anchored Clustering,2022
+Unsupervised Domain Adaptation for Semantic Segmentation using Depth Distribution,2022
+Efficient Meta Reinforcement Learning for Preference-based Fast Adaptation,2022
+HyperMiner: Topic Taxonomy Mining with Hyperbolic Embedding,2022
+TANKBind: Trigonometry-Aware Neural NetworKs for Drug-Protein Binding Structure Prediction,2022
+Estimating graphical models for count data with applications to single-cell gene network,2022
+MetaTeacher: Coordinating Multi-Model Domain Adaptation for Medical Image Classification,2022
+Adaptation Accelerating Sampling-based Bayesian Inference in Attractor Neural Networks,2022
+Generalized One-shot Domain Adaptation of Generative Adversarial Networks,2022
+HyperDomainNet: Universal Domain Adaptation for Generative Adversarial Networks,2022
+Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures,2022
+Bandit Theory and Thompson Sampling-Guided Directed Evolution for Sequence Optimization,2022
+Attracting and Dispersing: A Simple Approach for Source-free Domain Adaptation,2022
+Evolution of Neural Tangent Kernels under Benign and Adversarial Training,2022
+Variational Model Perturbation for Source-Free Domain Adaptation,2022
+Predicting Cellular Responses to Novel Drug Perturbations at a Single-Cell Resolution,2022
+Multi-layer State Evolution Under Random Convolutional Design,2022
+VaiPhy: a Variational Inference Based Algorithm for Phylogeny,2022
+Effective Adaptation in Multi-Task Co-Training for Unified Autonomous Driving,2022
+On Enforcing Better Conditioned Meta-Learning for Rapid Few-Shot Adaptation,2022
+Machine Learning on Graphs: A Model and Comprehensive Taxonomy,2022
+Understanding the Evolution of Linear Regions in Deep Reinforcement Learning,2022
+Unified Optimal Transport Framework for Universal Domain Adaptation,2022
+Curriculum Reinforcement Learning using Optimal Transport via Gradual Domain Adaptation,2022
+Test Time Adaptation via Conjugate Pseudo-labels,2022
+Probabilistic Transformer: Modelling Ambiguities and Distributions for RNA Folding  and Molecule Design,2022
+DNA: Proximal Policy Optimization with a Dual Network Architecture,2022
+Self-Consistent Dynamical Field Theory of Kernel Evolution in Wide Neural Networks,2022
+Exploring evolution-aware & -free protein language models as protein function predictors,2022
+Domain Adaptation meets Individual Fairness. And they get along.,2022
+Factored Adaptation for Non-Stationary Reinforcement Learning,2022
+Learning to Accelerate Partial Differential Equations via Latent Global Evolution,2022
+Unknown-Aware Domain Adversarial Learning for Open-Set Domain Adaptation,2022
+Distribution-Informed Neural Networks for Domain Adaptation Regression,2022
+DualCoOp: Fast Adaptation to Multi-Label Recognition with Limited Annotations,2022
+Unsupervised Adaptation  from Repeated Traversals for Autonomous Driving,2022
+Extrapolative Continuous-time Bayesian Neural Network for Fast Training-free Test-time Adaptation,2022
+Few-shot Image Generation via Adaptation-Aware Kernel Modulation,2022
+SPD domain-specific batch normalization to crack interpretable unsupervised domain adaptation in EEG,2022
+Subsidiary Prototype Alignment for Universal Domain Adaptation,2022
+Domain Adaptation under Open Set Label Shift,2022
+NOTE: Robust Continual Test-time Adaptation Against Temporal Correlation,2022
+CARLANE: A Lane Detection Benchmark for Unsupervised Domain Adaptation from Simulation to multiple Real-World Domains,2022
+PEER: A Comprehensive and Multi-Task Benchmark for Protein Sequence Understanding,2022
+DaDA: Distortion-aware Domain Adaptation for Unsupervised Semantic Segmentation,2022
+Divide and Contrast: Source-free Domain Adaptation via Adaptive Contrastive Learning,2022
+MEMO: Test Time Robustness via Adaptation and Augmentation,2022
+Polyhistor: Parameter-Efficient Multi-Task Adaptation for Dense Vision Tasks,2022
+"Benign, Tempered, or Catastrophic: Toward a Refined Taxonomy of Overfitting",2022
+First Contact: Unsupervised Human-Machine Co-Adaptation via Mutual Information Maximization,2022
+Few-Shot Domain Adaptation For End-to-End Communication,2023
+Protein Representation Learning via Knowledge Enhanced Primary Structure Reasoning,2023
+Hyper-Decision Transformer for Efficient Online Policy Adaptation,2023
+HotProtein: A Novel Framework for Protein Thermostability Prediction and Editing,2023
+Towards Understanding GD with Hard and Conjugate Pseudo-labels for Test-Time Adaptation,2023
+MECTA: Memory-Economic Continual Test-Time Model Adaptation,2023
+Partial Label Unsupervised Domain Adaptation with Class-Prototype Alignment,2023
+Learning Hierarchical Protein Representations via Complete 3D Graph Networks,2023
+Graph Domain Adaptation via Theory-Grounded Spectral Regularization,2023
+On Pre-training Language Model for Antibody,2023
+Molecule Generation For Target Protein Binding with Structural Motifs,2023
+Rotamer Density Estimator is an Unsupervised Learner of the Effect of Mutations on Protein-Protein Interaction,2023
+Multi-level Protein Structure Pre-training via Prompt Learning,2023
+M-L2O: Towards Generalizable Learning-to-Optimize by Test-Time Fast Self-Adaptation,2023
+Discovering Informative and Robust Positives for Video Domain Adaptation,2023
+Dirichlet-based Uncertainty Calibration for Active Domain Adaptation,2023
+PiFold: Toward effective and efficient protein inverse folding,2023
+Test-Time Adaptation via Self-Training with Nearest Neighbor Information,2023
+Divide to Adapt: Mitigating Confirmation Bias for Domain Adaptation of Black-Box Predictors,2023
+Matching receptor to odorant with protein language and graph neural networks,2023
+Conditional Antibody Design as 3D Equivariant Graph Translation,2023
+Protein Sequence and Structure Co-Design with Equivariant Translation,2023
+Disentanglement with Biological Constraints: A Theory of Functional Cell Types,2023
+Domain Generalisation via Domain Adaptation: An Adversarial Fourier Amplitude Approach,2023
+In-Situ Text-Only Adaptation of Speech Models with Low-Overhead Speech Imputations,2023
+Diffusion Probabilistic Modeling of Protein Backbones in 3D for the motif-scaffolding problem,2023
+Protein Representation Learning by Geometric Structure Pretraining,2023
+Information-Theoretic Analysis of Unsupervised Domain Adaptation,2023
+E3Bind: An End-to-End Equivariant Network for Protein-Ligand Docking,2023
+DELTA: DEGRADATION-FREE FULLY TEST-TIME ADAPTATION,2023
+Contrastive Learning for Unsupervised Domain Adaptation of Time Series,2023
+Domain-Indexing Variational Bayes: Interpretable Domain Index for Domain Adaptation,2023
+Energy-Based Test Sample Adaptation for Domain Generalization,2023
+Towards Stable Test-time Adaptation in Dynamic Wild World,2023
+When Source-Free Domain Adaptation Meets Learning with Noisy Labels,2023
+AnyDA: Anytime Domain Adaptation,2023
+A Closer Look at Model Adaptation using Feature Distortion and Simplicity Bias,2023
+Surgical Fine-Tuning Improves Adaptation to Distribution Shifts,2023
+Discovering Evolution Strategies via Meta-Black-Box Optimization,2023
+Consolidator: Mergable Adapter with Group Connections for Visual Adaptation,2023
+Addressing Parameter Choice Issues in Unsupervised Domain Adaptation by Aggregation,2023
+TTN: A Domain-Shift Aware Batch Normalization in Test-Time Adaptation,2023
+Lossless Adaptation of Pretrained Vision Models For Robotic Manipulation,2023
+Interneurons accelerate learning dynamics in recurrent neural networks for statistical adaptation,2023
+Meta-SAGE: Scale Meta-Learning Scheduled Adaptation with Guided Exploration for Mitigating Scale Shift on Combinatorial Optimization,2023
+Test-time Adaptation with Slot-Centric Models,2023
+On Balancing Bias and Variance in Unsupervised Multi-Source-Free Domain Adaptation,2023
+Reprogramming Pretrained Language Models for Antibody Sequence Infilling,2023
+SE(3) diffusion model with application to protein backbone generation,2023
+ODS: Test-Time Adaptation in the Presence of Open-World Data Shift,2023
+Uncovering Adversarial Risks of Test-Time Adaptation,2023
+Conditional Tree Matching for Inference-Time Adaptation of Tree Prediction Models,2023
+Learning-Rate-Free Learning by D-Adaptation,2023
+Flash: Concept Drift Adaptation in Federated Learning,2023
+Structure-informed Language Models Are Protein Designers,2023
+Importance Weighted Expectation-Maximization for Protein Sequence Design,2023
+Offline Meta Reinforcement Learning with In-Distribution Online Adaptation,2023
+Efficient Personalized Federated Learning via Sparse Model-Adaptation,2023
+On Pitfalls of Test-Time Adaptation,2023
+"Learning to acquire novel cognitive tasks with evolution, plasticity and meta-meta-learning",2023
+Human-Timescale Adaptation in an Open-Ended Task Space,2023
+Double-Weighting for Covariate Shift Adaptation,2023
+Bidirectional Adaptation for Robust Semi-Supervised Learning with Inconsistent Data Distributions,2023
+Structural Re-weighting Improves Graph Domain Adaptation,2023
+ProtST: Multi-Modality Learning of Protein Sequences and Biomedical Texts,2023
+Curious Replay for Model-based Adaptation,2023
+End-to-End Full-Atom Antibody Design,2023
+"Generating Novel, Designable, and Diverse Protein Structures by Equivariantly Diffusing Oriented Residue Clouds",2023
+Diversity-enhancing Generative Network for Few-shot Hypothesis Adaptation,2023
+Master-ASR: Achieving Multilingual Scalability and Low-Resource Adaptation in ASR with Modular Learning,2023
+Target-Aware Generative Augmentations for Single-Shot Adaptation,2023
+AbODE: Ab initio antibody design using conjoined ODEs,2023
+Cell-Free Latent Go-Explore,2023
+RACE: Improve Multi-Agent Reinforcement Learning with Representation Asymmetry and Collaborative Evolution,2023
+In Search for a Generalizable Method for Source Free Domain Adaptation,2023
+Taxonomy-Structured Domain Adaptation,2023
+AdaNPC: Exploring Non-Parametric Classifier for Test-Time Adaptation,2023
+Domain Adaptation for Time Series Under Feature and Label Shifts,2023
+ELSA: Efficient Label Shift Adaptation through the Lens of Semiparametric Models,2023
+RLSbench: Domain Adaptation Under Relaxed Label Shift,2023
+"Diagnosis, Feedback, Adaptation: A Human-in-the-Loop Framework for Test-Time Policy Adaptation",2023
+Spatial-Temporal Graph Learning with Adversarial Contrastive Adaptation,2023
+Leveraging Proxy of Training Data for Test-Time Adaptation,2023
+Disentangled Wasserstein Autoencoder for T-Cell Receptor Engineering,2023
+Pre-Training Protein Encoder via Siamese Sequence-Structure Diffusion Trajectory Prediction,2023
+Predicting mutational effects on protein-protein binding via a side-chain diffusion probabilistic model,2023
+ProteinGym: Large-Scale Benchmarks for Protein Fitness Prediction and Design,2023
+HyenaDNA: Long-Range Genomic Sequence Modeling at Single Nucleotide Resolution,2023
+Newton–Cotes Graph Neural Networks: On the Time Evolution of Dynamic Systems,2023
+Training-free Diffusion Model Adaptation for Variable-Sized Text-to-Image Synthesis,2023
+Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents,2023
+Mixed Samples as Probes for Unsupervised Model Selection in Domain Adaptation,2023
+SwapPrompt: Test-Time Prompt Adaptation for Vision-Language Models,2023
+Conservative Offline Policy Adaptation in Multi-Agent Games,2023
+SoTTA: Robust Test-Time Adaptation on Noisy Data Streams,2023
+Subspace Identification for Multi-Source Domain Adaptation,2023
+Feature Adaptation for Sparse Linear Regression,2023
+Unsupervised Protein-Ligand Binding Energy Prediction via Neural Euler's Rotation Equation,2023
+TMT-VIS: Taxonomy-aware Multi-dataset Joint Training for Video Instance Segmentation,2023
+ProteinNPT: Improving Protein Property Prediction and Design with Non-Parametric Transformers,2023
+PoET: A generative model of protein families as sequences-of-sequences,2023
+Score-based Generative Modeling through Stochastic Evolution Equations in Hilbert Spaces,2023
+Neural Priming for Sample-Efficient Adaptation,2023
+Generalized Semi-Supervised Learning via Self-Supervised Feature Adaptation,2023
+Make the U in UDA Matter: Invariant Consistency Learning for Unsupervised Domain Adaptation,2023
+"Beyond Invariance: Test-Time Label-Shift Adaptation for Addressing ""Spurious"" Correlations",2023
+FABind: Fast and Accurate Protein-Ligand Binding,2023
+DSR: Dynamical Surface Representation as Implicit Neural Networks for Protein,2023
+Randomized Sparse Neural Galerkin Schemes for Solving Evolution Equations with Deep Networks,2023
+Accelerated Training via Incrementally Growing Neural Networks using Variance Transfer and Learning Rate Adaptation,2023
+Efficient Low-rank Backpropagation for Vision Transformer Adaptation,2023
+Mix-of-Show: Decentralized Low-Rank Adaptation for Multi-Concept Customization of Diffusion Models,2023
+Task-Robust Pre-Training for Worst-Case Downstream Adaptation,2023
+Diffusion-Based Probabilistic Uncertainty Estimation for Active Domain Adaptation,2023
+Efficient Test-Time Adaptation for Super-Resolution with Second-Order Degradation and Reconstruction,2023
+Overcoming Recency Bias of Normalization Statistics in Continual Learning: Balance and Adaptation,2023
+Understanding Few-Shot Learning: Measuring Task Relatedness and Adaptation Difficulty via Attributes,2023
+Adversarial Self-Training Improves Robustness and Generalization for Gradual Domain Adaptation,2023
+Robust covariance estimation with missing values and cell-wise contamination,2023
+Protein Design with Guided Discrete Diffusion,2023
+Ecosystem-level Analysis of Deployed Machine Learning Reveals Homogeneous Outcomes,2023
+Injecting Multimodal Information into Rigid Protein Docking via Bi-level Optimization,2023
+AVIDa-hIL6: A Large-Scale VHH Dataset Produced from an Immunized Alpaca for Predicting Antigen-Antibody Interactions,2023
+Predicting a Protein's Stability under a Million Mutations,2023
+Full-Atom Protein Pocket Design via Iterative Refinement,2023
+ATTA: Anomaly-aware Test-Time Adaptation for Out-of-Distribution Detection in Segmentation,2023
+Interactive Multi-fidelity Learning for Cost-effective Adaptation of Language Model with Sparse Human Supervision,2023
+Context-guided Embedding Adaptation for Effective Topic Modeling in Low-Resource Regimes,2023
+RDumb: A simple approach that questions our progress in continual test-time adaptation,2023
+Efficient Adaptation of Large Vision Transformer via Adapter Re-Composing,2023
+Your representations are in the network: composable and parallel adaptation for large scale models,2023
+Winner-Take-All Column Row Sampling for Memory Efficient Adaptation of Language Model,2023
+Variance-Reduced Gradient Estimation via Noise-Reuse in Online Evolution Strategies,2023
+MoVie: Visual Model-Based Policy Adaptation for View Generalization,2023
+Unsupervised Video Domain Adaptation for Action Recognition: A Disentanglement Perspective,2023
+Mixture Weight Estimation and Model Prediction in Multi-source Multi-target Domain Adaptation,2023
+Multi-Prompt Alignment for Multi-Source Unsupervised Domain Adaptation,2023
+DrugCLIP: Contrastive Protein-Molecule Representation Learning for Virtual Screening,2023
+A Hierarchical Training Paradigm for Antibody Structure-sequence Co-design,2023
+AutoGO: Automated Computation Graph Optimization for Neural Network Evolution,2023
+DäRF: Boosting Radiance Fields from Sparse Input Views with Monocular Depth Adaptation,2023
+Diffusion-TTA: Test-time Adaptation of Discriminative Models via Generative Feedback,2023
+Open Compound Domain Adaptation with Object Style Compensation for Semantic Segmentation,2023
+SPA: A Graph Spectral Alignment Perspective for Domain Adaptation,2023
+xTrimoGene: An Efficient and Scalable Representation Learner for Single-Cell RNA-Seq Data,2023
+Geometry-Aware Adaptation for Pretrained Models,2023
+Domain Re-Modulation for Few-Shot Generative Domain Adaptation,2023
+AdaVAE: Bayesian Structural Adaptation for Variational Autoencoders,2023
+ESSEN: Improving Evolution State Estimation for Temporal Networks using Von Neumann Entropy,2023
+Spectral Evolution and Invariance in Linear-width Neural Networks,2023
+Cross-Domain Policy Adaptation via Value-Guided Data Filtering,2023
+Design from Policies: Conservative Test-Time Adaptation for Offline Policy Optimization,2023
+Tempo Adaptation in Non-stationary Reinforcement Learning,2023
+Equivariant Adaptation of Large Pretrained Models,2023
+Graph Denoising Diffusion for Inverse Protein Folding,2023
+ProteinShake: Building datasets and benchmarks for deep learning on protein structures,2023
+DiffPack: A Torsional Diffusion Model for Autoregressive Protein Side-Chain Packing,2023
+BioMassters: A Benchmark Dataset for Forest Biomass Estimation using Multi-modal Satellite Time-series,2023
+A Step Towards Worldwide Biodiversity Assessment:  The BIOSCAN-1M Insect Dataset,2023
+WBCAtt: A White Blood Cell Dataset Annotated with Detailed Morphological Attributes,2023
+"ProteinInvBench: Benchmarking Protein Inverse Folding on Diverse Tasks, Models, and Metrics",2023
+SG×P : A Sorghum Genotype × Phenotype Prediction Dataset and Benchmark,2023
+Into the Single Cell Multiverse: an End-to-End Dataset for Procedural Knowledge Extraction in Biomedical Texts,2023
+SARAMIS: Simulation Assets for Robotic Assisted and Minimally Invasive Surgery,2023
+A Neural Collapse Perspective on Feature Evolution in Graph Neural Networks,2023
+Benchmarking Robustness of Adaptation Methods on Pre-trained Vision-Language Models,2023
+Combinatorial Optimization with Policy Adaptation using Latent Space Search,2023
+[Re] Bandit Theory and Thompson Sampling-guided Directed Evolution for Sequence Optimization,2023
+Active Test-Time Adaptation: Theoretical Analyses and An Algorithm,2024
+Project and Probe: Sample-Efficient Adaptation by Interpolating Orthogonal Features,2024
+DNA-GPT: Divergent N-Gram Analysis for Training-Free Detection of GPT-Generated Text,2024
+Principled Federated Domain Adaptation: Gradient Projection and Auto-Weighting,2024
+Towards Robust and Efficient Cloud-Edge Elastic Model Adaptation via Selective Entropy Distillation,2024
+EBMDock: Neural Probabilistic Protein-Protein Docking via a Differentiable Energy Model,2024
+Meta-Evolve: Continuous Robot Evolution for One-to-many Policy Transfer,2024
+SF(DA)$^2$: Source-free Domain Adaptation Through the Lens of Data Augmentation,2024
+Entropy is not Enough for Test-Time Adaptation: From the Perspective of Disentangled Factors,2024
+Dynamics-Informed Protein Design with Structure Conditioning,2024
+Evaluating Representation Learning on the Protein Structure Universe,2024
+Protein Discovery with Discrete Walk-Jump Sampling,2024
+"Pre-training Sequence, Structure, and Surface Features for Comprehensive Protein Representation Learning",2024
+Protein-ligand binding representation learning from fine-grained interactions,2024
+Towards Few-Shot Adaptation of Foundation Models via Multitask Finetuning,2024
+Learning to design protein-protein interactions with enhanced generalization,2024
+Most discriminative stimuli for functional cell type clustering,2024
+Few-shot Hybrid Domain Adaptation of Image Generator,2024
+"Habitat 3.0: A Co-Habitat for Humans, Avatars, and Robots",2024
+Continual Momentum Filtering on Parameter Space for Online Test-time Adaptation,2024
+Self-supervised Pocket Pretraining via Protein Fragment-Surroundings Alignment,2024
+Towards Seamless Adaptation of Pre-trained Models for Visual Place Recognition,2024
+From Latent Graph to Latent Topology Inference: Differentiable Cell Complex Module,2024
+"Task Adaptation from Skills: Information Geometry, Disentanglement, and New Objectives for Unsupervised Reinforcement Learning",2024
+Test-time Adaptation against Multi-modal Reliability Bias,2024
+CLAP: Collaborative Adaptation for Patchwork Learning,2024
+The Expressive Power of Low-Rank Adaptation,2024
+CellPLM: Pre-training of Cell Language Model Beyond Single Cells,2024
+Protein-Ligand Interaction Prior for Binding-aware 3D Molecule Diffusion Models,2024
+Protein Multimer Structure Prediction via Prompt Learning,2024
+Deep Reinforcement Learning for Modelling Protein Complexes,2024
+"Advancing the Lower Bounds: an Accelerated, Stochastic, Second-order Method with Optimal Adaptation to Inexactness",2024
+PROGRAM: PROtotype GRAph Model based Pseudo-Label Learning for Test-Time Adaptation,2024
+Enhancing Transferable Adversarial Attacks on Vision Transformers through Gradient Normalization Scaling and High-Frequency Adaptation,2024
+A Hard-to-Beat Baseline for Training-free CLIP-based Adaptation,2024
+QA-LoRA: Quantization-Aware Low-Rank Adaptation of Large Language Models,2024
+De novo Protein Design Using Geometric Vector Field Networks,2024
+Batched Low-Rank Adaptation of Foundation Models,2024
+Test-Time Adaptation with CLIP Reward for Zero-Shot Generalization in Vision-Language Models,2024
+Improving equilibrium propagation without weight symmetry through Jacobian homeostasis,2024
+GENOME: Generative Neuro-Symbolic Visual Reasoning by Growing and Reusing Modules,2024
+Improving protein optimization with smoothed fitness landscapes,2024
+Debiasing Algorithm through Model Adaptation,2024
+Source-Free and Image-Only Unsupervised Domain Adaptation for Category Level Object Pose Estimation,2024
+SE(3)-Stochastic Flow Matching for Protein Backbone Generation,2024
+ViDA: Homeostatic Visual Domain Adapter for Continual Test Time Adaptation,2024
+Memory-Assisted Sub-Prototype Mining for Universal Domain Adaptation,2024
+Exploring the Common Appearance-Boundary Adaptation for Nighttime Optical Flow,2024
+VeRA: Vector-based Random Matrix Adaptation,2024
+MAPE-PPI: Towards Effective and Efficient Protein-Protein Interaction Prediction via Microenvironment-Aware Protein Embedding,2024
+Can We Evaluate Domain Adaptation Models Without Target-Domain Labels?,2024
+KW-Design: Pushing the Limit of Protein Design via Knowledge Refinement,2024
+Gradual Domain Adaptation via Gradient Flow,2024
+Bayesian Low-rank Adaptation for Large Language Models,2024
+RDesign: Hierarchical Data-efficient Representation Learning for Tertiary Structure-based RNA Design,2024
+Rigid Protein-Protein Docking via Equivariant Elliptic-Paraboloid Interface Prediction,2024
+Probabilistic Adaptation of Black-Box Text-to-Video Models,2024
+Weakly Supervised Virus Capsid Detection with Image-Level Annotations in Electron Microscopy Images,2024
+Str2Str: A Score-based Framework for Zero-shot Protein Conformation Sampling,2024
+AUGCAL: Improving Sim2Real Adaptation by Uncertainty Calibration on Augmented Synthetic Images,2024
+MCM: Masked Cell Modeling for Anomaly Detection in Tabular Data,2024
+SaProt: Protein Language Modeling with Structure-aware Vocabulary,2024
+BEND: Benchmarking DNA Language Models on Biologically Meaningful Tasks,2024
+Covert Malicious Finetuning: Challenges in Safeguarding LLM Adaptation,2024
+Protein Conformation Generation via Force-Guided SE(3) Diffusion Models,2024
+Diffusion Language Models Are Versatile Protein Learners,2024
+Evaluation of Test-Time Adaptation Under Computational Time Constraints,2024
+RoSA: Accurate Parameter-Efficient Fine-Tuning via Robust Adaptation,2024
+Pairwise Alignment Improves Graph Domain Adaptation,2024
+GeoAB: Towards Realistic Antibody Design and Reliable Affinity Maturation,2024
+ESM All-Atom: Multi-Scale Protein Language Model for Unified Molecular Modeling,2024
+AlphaFold Meets Flow Matching for Generating Protein Ensembles,2024
+Enforcing Constraints in RNA Secondary Structure Predictions: A Post-Processing Framework Based on the Assignment Problem,2024
+CoLoRA: Continuous low-rank adaptation for reduced implicit neural modeling of parameterized partial differential equations,2024
+Human vs. Generative AI in Content Creation Competition: Symbiosis or Conflict?,2024
+Evolution-Inspired Loss Functions for Protein Representation Learning,2024
+Generative Enzyme Design Guided by Functionally Important Sites and Small-Molecule Substrates,2024
+Bayesian Power Steering: An Effective Approach for Domain Adaptation of Diffusion Models,2024
+CarbonNovo: Joint Design of Protein Structure and Sequence Using a Unified Energy-based Model,2024
+TabLog: Test-Time Adaptation for Tabular Data Using Logic Rules,2024
+IW-GAE: Importance weighted group accuracy estimation for improved calibration and model selection in unsupervised domain adaptation,2024
+Knowledge-aware Reinforced Language Models for Protein Directed Evolution,2024
+Fast-Slow Test-Time Adaptation for Online Vision-and-Language Navigation,2024
+Batch Singular Value Polarization and Weighted Semantic Augmentation for Universal Domain Adaptation,2024
+LangCell: Language-Cell Pre-training for Cell Identity Understanding,2024
+Robust Optimization in Protein Fitness Landscapes Using Reinforcement Learning in Latent Space,2024
+Test-Time Degradation Adaptation for Open-Set Image Restoration,2024
+Getting the most out of your tokenizer for pre-training and domain adaptation,2024
+Stationary Latent Weight Inference for Unreliable Observations from Online Test-Time Adaptation,2024
+Cross-Domain Policy Adaptation by Capturing Representation Mismatch,2024
+Dirichlet Flow Matching with Applications to DNA Sequence Design,2024
+SurfPro: Functional Protein Design Based on Continuous Surface,2024
+Generative Flows on Discrete State-Spaces: Enabling Multimodal Flows with Applications to Protein Co-Design,2024
+Interaction-based Retrieval-augmented Diffusion Models for Protein-specific 3D Molecule Generation,2024
+SuDA: Support-based Domain Adaptation for Sim2Real Hinge Joint Tracking with Flexible Sensors,2024
+CauDiTS: Causal Disentangled Domain Adaptation of Multivariate Time Series,2024
+Understanding Retrieval-Augmented Task Adaptation for Vision-Language Models,2024
+"Junk DNA Hypothesis: Pruning Small Pre-Trained Weights $\textit{Irreversibly}$ and $\textit{Monotonically}$ Impairs ``Difficult"" Downstream Tasks in LLMs",2024
+"Antibody Design Using a Score-based Diffusion Model Guided by Evolutionary, Physical and Geometric Constraints",2024
+Differentially Private Domain Adaptation with Theoretical Guarantees,2024
+Learning to Predict Mutational Effects of Protein-Protein Interactions by Microenvironment-aware Hierarchical Prompt Learning,2024
+Compressible Dynamics in Deep Overparameterized Low-Rank Learning & Adaptation,2024
+Efficient Adaptation in Mixed-Motive Environments via Hierarchical Opponent Modeling and Planning,2024
+Deciphering RNA Secondary Structure Prediction: A Probabilistic K-Rook Matching Perspective,2024
+"Guiding LLMs The Right Way: Fast, Non-Invasive Constrained Generation",2024
+LoRA+: Efficient Low Rank Adaptation of Large Models,2024
+Improving Antibody Humanness Prediction using Patent Data,2024
+ESNet: Evolution and Succession Network for High-Resolution Salient Object Detection,2024
+Pseudo-Calibration: Improving Predictive Uncertainty Estimation in Unsupervised Domain Adaptation,2024
+BECoTTA: Input-dependent Online Blending of Experts for Continual Test-time Adaptation,2024
+Feature Reuse and Scaling: Understanding Transfer Learning with Protein Language Models,2024
+EvIL: Evolution Strategies for Generalisable Imitation Learning,2024
+Fast Peer Adaptation with Context-aware Exploration,2024
+Caduceus: Bi-Directional Equivariant Long-Range DNA Sequence Modeling,2024
+Efficient Non-stationary Online Learning by Wavelets with Applications to Online Distribution Shift Adaptation,2024
+Bayesian Adaptation of Network Depth and Width for Continual Learning,2024
+Category-Aware Active Domain Adaptation,2024
+Few-shot Adaptation to Distribution Shifts By Mixing Source and Target Embeddings,2024
+Evolution of Heuristics: Towards Efficient Automatic Algorithm Design Using Large Language Model,2024
+Context-Guided Diffusion for Out-of-Distribution Molecular and Protein Design,2024
+Test-Time Model Adaptation with Only Forward Passes,2024
+RNAFlow: RNA Structure & Sequence Design via Inverse Folding-Based Flow Matching,2024
+Debiased Offline Representation Learning for Fast Online Adaptation in Non-stationary Dynamics,2024
+Promptbreeder: Self-Referential Self-Improvement via Prompt Evolution,2024
+DoRA: Weight-Decomposed Low-Rank Adaptation,2024
+Prior Mismatch and Adaptation in PnP-ADMM with a Nonconvex Convergence Analysis,2024
+Proteus: Exploring Protein Structure Generation for Enhanced Designability and Efficiency,2024
+Gradual Divergence for Seamless Adaptation: A Novel Domain Incremental Learning Method,2024
+DNA-SE: Towards Deep Neural-Nets Assisted Semiparametric Estimation,2024
+Unsupervised Domain Adaptation for Anatomical Structure Detection in Ultrasound Images,2024
+Pre-Training Protein Bi-level Representation Through Span Mask Strategy On 3D Protein Chains,2024
+Rethinking Misalignment in Vision-Language Model Adaptation from a Causal Perspective,2024
+Style Adaptation and Uncertainty Estimation for Multi-Source Blended-Target Domain Adaptation,2024
+DePLM: Denoising Protein Language Models for Property Optimization,2024
+Prompt Tuning Strikes Back: Customizing Foundation Models with Low-Rank Prompt Adaptation,2024
+Efficient Adaptation of Pre-trained Vision Transformer via Householder Transformation,2024
+BoostAdapter: Improving Vision-Language Test-Time Adaptation via Regional Bootstrapping,2024
+Semi-supervised Knowledge Transfer Across Multi-omic Single-cell Data,2024
+TFGDA: Exploring Topology and Feature Alignment in Semi-supervised Graph Domain Adaptation through Robust Clustering,2024
+Exploring Structured Semantic Priors Underlying Diffusion Score for Test-time Adaptation,2024
+Gradual Domain Adaptation via Manifold-Constrained Distributionally Robust Optimization,2024
+Bayesian Domain Adaptation with Gaussian Mixture Domain-Indexing,2024
+Enhancing Protein Mutation Effect Prediction through a Retrieval-Augmented Framework,2024
+"3-in-1: 2D Rotary Adaptation for Efficient Finetuning, Efficient Batching and Composability",2024
+MutaPLM: Protein Language Modeling for Mutation Explanation and Engineering,2024
+LLM-based Skill Diffusion for Zero-shot Policy Adaptation,2024
+Kermut: Composite kernel regression for protein variant effects,2024
+Self-Taught Recognizer: Toward Unsupervised Adaptation for Speech Foundation Models,2024
+DART-Eval: A Comprehensive DNA Language Model Evaluation Benchmark on Regulatory DNA,2024
+Decision Mamba: A Multi-Grained State Space Model with Self-Evolution Regularization for Offline RL,2024
+Cross-Device Collaborative Test-Time Adaptation,2024
+Large Language Models-guided Dynamic Adaptation for Temporal Knowledge Graph Reasoning,2024
+Boosting Transferability and Discriminability for Time Series Domain Adaptation,2024
+Unified Domain Generalization and Adaptation for Multi-View 3D Object Detection,2024
+EZ-HOI: VLM Adaptation via Guided Prompt Learning for Zero-Shot HOI Detection,2024
+Unsupervised Modality Adaptation with Text-to-Image Diffusion Models for Semantic Segmentation,2024
+BEACON: Benchmark for Comprehensive RNA Tasks and Language Models,2024
+ReactZyme: A Benchmark for Enzyme-Reaction Prediction,2024
+BioTrove: A Large Curated Image Dataset Enabling AI for Biodiversity,2024
+AsEP: Benchmarking Deep Learning Methods for Antibody-specific Epitope Prediction,2024
+Sequence-Augmented SE(3)-Flow Matching For Conditional Protein Generation,2024
+IODA: Instance-Guided One-shot Domain Adaptation for Super-Resolution,2024
+CONTRAST: Continual Multi-source Adaptation to Dynamic Distributions,2024
+Bridge-IF: Learning Inverse Protein Folding with Markov Bridges,2024
+ProtGO: Function-Guided Protein Modeling for Unified Representation Learning,2024
+TALoS: Enhancing Semantic Scene Completion via Test-time Adaptation on the Line of Sight,2024
+PCoTTA: Continual Test-Time Adaptation for Multi-Task Point Cloud Understanding,2024
+ProSST: Protein Language Modeling with Quantized Structure and Disentangled Attention,2024
+An Offline Adaptation Framework for Constrained Multi-Objective Reinforcement Learning,2024
+Federated Black-Box Adaptation for Semantic Segmentation,2024
+LoRA-GA: Low-Rank Adaptation with Gradient Approximation,2024
+SaulLM-54B & SaulLM-141B: Scaling Up Domain Adaptation for the Legal Domain,2024
+Multi-Scale Representation Learning for Protein Fitness Prediction,2024
+Personalized Federated Learning via Feature Distribution Adaptation,2024
+Test-Time Adaptation Induces Stronger Accuracy and Agreement-on-the-Line,2024
+Learning Place Cell Representations and Context-Dependent Remapping,2024
+Cloud Object Detector Adaptation by Integrating Different Source Knowledge,2024
+Unified Insights: Harnessing Multi-modal Data for Phenotype Imputation via View Decoupling,2024
+MSA Generation with Seqs2Seqs Pretraining: Advancing Protein Structure Predictions,2024
+GENOT: Entropic (Gromov) Wasserstein Flow Matching with Applications to Single-Cell Genomics,2024
+GAVEL: Generating Games via Evolution and Language Models,2024
+Panacea: Pareto Alignment via Preference Adaptation for LLMs,2024
+Protected Test-Time Adaptation via Online Entropy Matching: A Betting Approach,2024
+L-TTA: Lightweight Test-Time Adaptation Using a Versatile Stem Layer,2024
+A benchmark for prediction of transcriptomic responses to chemical perturbations across cell types,2024
+MSAGPT: Neural Prompting Protein Structure Prediction via MSA Generative Pre-Training,2024
+PiSSA: Principal Singular Values and Singular Vectors Adaptation of Large Language Models,2024
+BLoB: Bayesian Low-Rank Adaptation by Backpropagation for Large Language Models,2024
+Generalized Protein Pocket Generation with Prior-Informed Flow Matching,2024
+Med-Real2Sim: Non-Invasive Medical Digital Twins using Physics-Informed Self-Supervised Learning,2024
+Pre-Trained Multi-Goal Transformers with Prompt Optimization for Efficient Online Adaptation,2024
+"Towards a ""Universal Translator"" for Neural Dynamics at Single-Cell, Single-Spike Resolution",2024
+CorDA: Context-Oriented Decomposition Adaptation of Large Language Models for Task-Aware Parameter-Efficient Fine-tuning,2024
+Persistent Test-time Adaptation in Recurring Testing Scenarios,2024
+Cell ontology guided transcriptome foundation model,2024
+PURE: Prompt Evolution with Graph ODE for Out-of-distribution Fluid Dynamics Modeling,2024
+"Revisiting, Benchmarking and Understanding Unsupervised Graph Domain Adaptation",2024
+Bridging The Gap between Low-rank and Orthogonal Adaptation via Householder Reflection Adaptation,2024
+EMGBench: Benchmarking Out-of-Distribution Generalization and Adaptation for Electromyography,2024
+Test-time Adaptation in Non-stationary Environments via Adaptive Representation Alignment,2024
+Off-Dynamics Reinforcement Learning via Domain Adaptation and Reward Augmented Imitation,2024
+Designing Cell-Type-Specific Promoter Sequences Using Conservative Model-Based Optimization,2024
+TinyTTA: Efficient Test-time Adaptation via Early-exit Ensembles on Edge Devices,2024
+Antigen-Specific Antibody Design via Direct Energy-based Preference Optimization,2024
+Who’s Gaming the System? A Causally-Motivated Approach for Detecting Strategic Adaptation,2024
+Long-Tailed Out-of-Distribution Detection via Normalized Outlier Distribution Adaptation,2024
+WATT: Weight Average Test Time Adaptation of CLIP,2024
+Online Adaptation of Language Models with a Memory of Amortized Contexts,2024
+ReEvo: Large Language Models as Hyper-Heuristics with Reflective Evolution,2024
+Enhancing Domain Adaptation through Prompt Gradient Alignment,2024
+Ultrafast classical phylogenetic method beats large protein language models on variant effect prediction,2024
+SLED: Self Logits Evolution Decoding for Improving Factuality in Large Language Models,2024
+Training Compute-Optimal Protein Language Models,2024
+Gene-Gene Relationship Modeling Based on Genetic Evidence for Single-Cell RNA-Seq Data Imputation,2024
+Online Feature Updates Improve Online (Generalized) Label Shift Adaptation,2024
+Rethinking the Membrane Dynamics and Optimization Objectives of Spiking Neural Networks,2024
+Graph-enhanced Optimizers for Structure-aware Recommendation Embedding Evolution,2024
+Metric from Human: Zero-shot Monocular Metric Depth Estimation via Test-time Adaptation,2024
+BIOSCAN-5M: A Multimodal Dataset for Insect Biodiversity,2024
+Towards Reliable Model Selection for Unsupervised Domain Adaptation: An Empirical Study and A Certified Baseline,2024
+Frustratingly Easy Test-Time Adaptation of Vision-Language Models,2024
+Learning Complete Protein Representation by Dynamically Coupling of Sequence and Structure,2024
+Meta-Reinforcement Learning with Universal Policy Adaptation: Provable Near-Optimality under All-task Optimum Comparator,2024
+Bias Amplification in Language Model Evolution: An Iterated Learning Perspective,2024
+Protein-Nucleic Acid Complex Modeling with Frame Averaging Transformer,2024
+PrivAuditor: Benchmarking Data Protection Vulnerabilities in LLM Adaptation Techniques,2024
+Domain Adaptation for Large-Vocabulary Object Detectors,2024
+Disentangling the Roles of Distinct Cell Classes with Cell-Type Dynamical Systems,2024
+FouRA: Fourier Low-Rank Adaptation,2024
+A SARS-CoV-2 Interaction Dataset and VHH Sequence Corpus for Antibody Language Models,2024
+A Taxonomy of Challenges to Curating Fair Datasets,2024
+OTTER: Effortless Label Distribution Adaptation of Zero-shot Models,2024
+FlexSBDD: Structure-Based Drug Design with Flexible Protein Modeling,2024
+The Evolution of Statistical Induction Heads: In-Context Learning Markov Chains,2024
+Geodesic Optimization for Predictive Shift Adaptation on EEG data,2024
+QuanTA: Efficient High-Rank Fine-Tuning of LLMs with Quantum-Informed Tensor Adaptation,2024
+Self-Healing Machine Learning: A Framework for Autonomous Adaptation in Real-World Environments,2024
+On $f$-Divergence Principled Domain Adaptation: An Improved Framework,2024
+Parameter Efficient Adaptation for Image Restoration with Heterogeneous Mixture-of-Experts,2024
+A versatile informative diffusion model for single-cell ATAC-seq data generation and analysis,2024
+Incremental Learning of Retrievable Skills For Efficient Continual Task Adaptation,2024
+Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation,2024
+Free Lunch in Pathology Foundation Model: Task-specific Model Adaptation with Concept-Guided Feature Enhancement,2024
+Federated Behavioural Planes: Explaining the Evolution of Client Behaviour in Federated Learning,2024
+Revisiting K-mer Profile for Effective and Scalable Genome Representation Learning,2024
+Towards Stable Representations for Protein Interface Prediction,2024
+ActSort: An active-learning accelerated cell sorting algorithm for large-scale calcium imaging datasets,2024
+Model Decides How to Tokenize: Adaptive DNA Sequence Tokenization with MxDNA,2024
